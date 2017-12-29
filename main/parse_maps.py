@@ -9,6 +9,11 @@ from main.schemas.MapSchema import MapSchema
 #todo: comments, refactor
 
 def load_ggpk(ggpk_path):
+    """
+    Creates a ggpk object from a path
+    :param ggpk_path:
+    :return: ggpk
+    """
     ggpk = GGPKFile()
     ggpk.read(ggpk_path)
     ggpk.directory_build()
@@ -16,6 +21,11 @@ def load_ggpk(ggpk_path):
 
 
 def create_relational_reader(ggpk):
+    """
+    Create a relational reader object that reads from the given ggpk
+    :param ggpk: ggpk object
+    :return: relationalreader instance
+    """
     opt = {
         'use_dat_value': False,
         'auto_build_index': True,
@@ -110,5 +120,6 @@ maps=parse(rr)
 
 schema = MapSchema(exclude=['monster_packs'])
 
+#write to file
 with open('maps_3_1.json', 'w') as outfile:
     json.dump(schema.dump(maps,many=True).data,outfile,indent=4)

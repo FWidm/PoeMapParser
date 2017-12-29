@@ -1,4 +1,3 @@
-import json
 import os
 import re
 import urllib.request
@@ -8,7 +7,6 @@ import sys
 
 abyss_map_url = 'http://poe.ninja/api/Data/GetMapOverview?league=Abyss'
 abyss_unique_map_url = 'http://poe.ninja/api/Data/GetUniqueMapOverview?league=Abyss'
-json_file = 'maps_3_1.json'
 
 poe_ninja_map_data = requests.get(abyss_map_url).json()['lines']
 poe_ninja_unique_map_data = requests.get(abyss_unique_map_url).json()['lines']
@@ -26,10 +24,13 @@ def fetch_map_img(map, out_path='out'):
     - name: string (see example maps.json for naming info)
     - tier: int
     - unique: bool
-    :param map:
-    :param out_path:
-    :return:
+    :param map: dictionary of a map. MUST contain map.name, map.tier, map.unique.
+    :param out_path: customize the path where the images should be stored > "img/[<tier>|unique]/<mapname>.png"
+    :return: path to the local file
     """
+    if not map.name or not map.tier or not map.unique:
+        raise Exception('Dictionary of the map has to contain name(str), tier(int) and unique(bool).')
+
     #fixe the name if the name == The HoGM instead of HoGM to match poe.ninja naming
     name = map['name'] if map['name'] != "The Hall of Grandmasters" else "Hall of Grandmasters"
     icon_url = [x['icon'] for x in poe_ninja_map_data if x['name'].startswith(name + " Map")]
@@ -49,6 +50,7 @@ def fetch_map_img(map, out_path='out'):
             os.makedirs(path)
         try:
             file_name=path + get_valid_filename(map['name']) + ".png"
+            # Url example: http://web.poecdn.com/image/Art/2DItems/Maps/Atlas2Maps/Hydra.png?scale=1&scaleIndex=0&w=1&h=1 for Abyss league.
             url=icon_url[0].replace('scale=1&scaleIndex=0&w=1&h=1&','')
             print(url)
             urllib.request.urlretrieve(url, file_name)
@@ -58,7 +60,3 @@ def fetch_map_img(map, out_path='out'):
             print("Name={}, Unexpected error: {}".format(name,sys.exc_info()[0]))
             return None
 
-
-# maps = json.load(open(json_file))
-# img=fetch_map_img(maps[5])
-# print(img)
