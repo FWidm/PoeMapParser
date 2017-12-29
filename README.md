@@ -1,6 +1,10 @@
 # PoeMapParser
 Extract map data from the GGPK into json. Also fetches map images by obtaining the links from poe.ninja.
 
+## Requirements
+- [PyPoe](https://github.com/OmegaK2/PyPoE)
+- [Marshmallow](https://marshmallow.readthedocs.io/en/latest/index.html)
+
 ## Contents
 - **fetch_map_img.py**: Given a dictionary that contains the name, tier and unique state of a map, query poe.ninja's api and obtain the image file. method returns the local file path to the img.
     - Required information: current maps (including path to their icons) `abyss_map_url = 'http://poe.ninja/api/Data/GetMapOverview?league=Abyss'` && `abyss_unique_map_url = 'http://poe.ninja/api/Data/GetUniqueMapOverview?league=Abyss'` -- change league to the current league.

@@ -28,7 +28,8 @@ def fetch_map_img(map, out_path='out'):
     :param out_path: customize the path where the images should be stored > "img/[<tier>|unique]/<mapname>.png"
     :return: path to the local file
     """
-    if not map.name or not map.tier or not map.unique:
+    print("fetching... {}".format(map))
+    if not 'name' in map or not 'unique' in map or not 'tier' in map:
         raise Exception('Dictionary of the map has to contain name(str), tier(int) and unique(bool).')
 
     #fixe the name if the name == The HoGM instead of HoGM to match poe.ninja naming
