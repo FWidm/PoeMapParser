@@ -1,0 +1,4119 @@
+[
+    {
+        "base": "Lookout Map",
+        "name": "Lookout",
+        "tier": 1,
+        "guild_character": "C",
+        "unique": false,
+        "upgrade": "Alleyways Map",
+        "connected_to": [
+            {
+                "Name": "Pen Map"
+            },
+            {
+                "Name": "Alleyways Map"
+            }
+        ],
+        "flavour_text": "A glorious vista once exclusive to emperors. Not anymore.",
+        "boss": [
+            {
+                "Name": "The Grey Plague"
+            }
+        ],
+        "coordinates": {
+            "y": 463.68499755859375,
+            "x": 834.5819702148438
+        },
+        "img": "img/1/Lookout.png"
+    },
+    {
+        "base": "Beach Map",
+        "name": "Beach",
+        "tier": 1,
+        "guild_character": "X",
+        "unique": false,
+        "upgrade": "Desert Map",
+        "connected_to": [
+            {
+                "Name": "Desert Map"
+            },
+            {
+                "Name": "Arid Lake Map"
+            }
+        ],
+        "flavour_text": "A paradise, forever replenished by endless waves teeming with life.",
+        "boss": [
+            {
+                "Name": "Glace"
+            }
+        ],
+        "coordinates": {
+            "y": 95.5199966430664,
+            "x": 834.9710083007812
+        },
+        "img": "img/1/Beach.png"
+    },
+    {
+        "base": "Graveyard Map",
+        "name": "Graveyard",
+        "tier": 1,
+        "guild_character": "N",
+        "unique": false,
+        "upgrade": "Marshes Map",
+        "connected_to": [
+            {
+                "Name": "Marshes Map"
+            }
+        ],
+        "flavour_text": "Unknown legacies.\r\nUntold stories.",
+        "boss": [
+            {
+                "Name": "Thunderskull"
+            },
+            {
+                "Name": "Steelpoint the Avenger"
+            },
+            {
+                "Name": "Champion of Frost"
+            }
+        ],
+        "coordinates": {
+            "y": 465.7309875488281,
+            "x": 169.5590057373047
+        },
+        "img": "img/1/Graveyard.png"
+    },
+    {
+        "base": "Dungeon Map",
+        "name": "Dungeon",
+        "tier": 1,
+        "guild_character": "3",
+        "unique": false,
+        "upgrade": "Flooded Mine Map",
+        "connected_to": [
+            {
+                "Name": "Flooded Mine Map"
+            }
+        ],
+        "flavour_text": "A penitentiary for those who are not penitent is nothing more than an inn for the evil.",
+        "boss": [
+            {
+                "Name": "Penitentiary Incarcerator"
+            }
+        ],
+        "coordinates": {
+            "y": 82.12200164794922,
+            "x": 169.70799255371094
+        },
+        "img": "img/1/Dungeon.png"
+    },
+    {
+        "base": "Alleyways Map",
+        "name": "Alleyways",
+        "tier": 2,
+        "guild_character": "a",
+        "unique": false,
+        "upgrade": "Arcade Map",
+        "connected_to": [
+            {
+                "Name": "Cage Map"
+            },
+            {
+                "Name": "Arcade Map"
+            },
+            {
+                "Name": "Port Map"
+            }
+        ],
+        "flavour_text": "An unwashed gutter, where wretches cut purses and throats alike.",
+        "boss": [
+            {
+                "Name": "Calderus"
+            }
+        ],
+        "coordinates": {
+            "y": 418.1289978027344,
+            "x": 840.1400146484375
+        },
+        "img": "img/2/Alleyways.png"
+    },
+    {
+        "base": "Pen Map",
+        "name": "Pen",
+        "tier": 2,
+        "guild_character": "b",
+        "unique": false,
+        "upgrade": "Cage Map",
+        "connected_to": [
+            {
+                "Name": "Cage Map"
+            }
+        ],
+        "flavour_text": "Slaves held like cattle. A blood-soaked revolution, just waiting to happen.",
+        "boss": [
+            {
+                "Name": "Arwyn, the Houndmaster"
+            },
+            {
+                "Name": "Arwyn, the Houndmaster"
+            },
+            {
+                "Name": "Arwyn, the Houndmaster"
+            }
+        ],
+        "coordinates": {
+            "y": 464.5010070800781,
+            "x": 799.8380126953125
+        },
+        "img": "img/2/Pen.png"
+    },
+    {
+        "base": "Desert Map",
+        "name": "Desert",
+        "tier": 2,
+        "guild_character": "W",
+        "unique": false,
+        "upgrade": "Iceberg Map",
+        "connected_to": [
+            {
+                "Name": "Iceberg Map"
+            }
+        ],
+        "flavour_text": "Heat. Dust. Wind. These are what forge strong minds and bodies.",
+        "boss": [
+            {
+                "Name": "Preethi, Eye-Pecker"
+            }
+        ],
+        "coordinates": {
+            "y": 97.53199768066406,
+            "x": 807.5869750976562
+        },
+        "img": "img/2/Desert.png"
+    },
+    {
+        "base": "Arid Lake Map",
+        "name": "Arid Lake",
+        "tier": 2,
+        "guild_character": "c",
+        "unique": false,
+        "upgrade": "Peninsula Map",
+        "connected_to": [
+            {
+                "Name": "Peninsula Map"
+            }
+        ],
+        "flavour_text": "Water vanishes; an impromptu prison becomes a tomb.",
+        "boss": [
+            {
+                "Name": "Drought-Maddened Rhoa"
+            }
+        ],
+        "coordinates": {
+            "y": 139.00100708007812,
+            "x": 836.4199829101562
+        },
+        "img": "img/2/Arid_Lake.png"
+    },
+    {
+        "base": "Flooded Mine Map",
+        "name": "Flooded Mine",
+        "tier": 2,
+        "guild_character": "?",
+        "unique": false,
+        "upgrade": "Excavation Map",
+        "connected_to": [
+            {
+                "Name": "Leyline Map"
+            },
+            {
+                "Name": "Cells Map"
+            },
+            {
+                "Name": "Excavation Map"
+            }
+        ],
+        "flavour_text": "In darkness, beast and man alike clamour to survive.",
+        "boss": [
+            {
+                "Name": "The Eroding One"
+            }
+        ],
+        "coordinates": {
+            "y": 121.69300079345703,
+            "x": 155.83099365234375
+        },
+        "img": "img/2/Flooded_Mine.png"
+    },
+    {
+        "base": "Marshes Map",
+        "name": "Marshes",
+        "tier": 2,
+        "guild_character": "2",
+        "unique": false,
+        "upgrade": "Springs Map",
+        "connected_to": [
+            {
+                "Name": "Burial Chambers Map"
+            },
+            {
+                "Name": "Springs Map"
+            }
+        ],
+        "flavour_text": "Embraced by mud. Grasped by roots. The careless are silently swallowed.",
+        "boss": [
+            {
+                "Name": "Tore, Towering Ancient"
+            }
+        ],
+        "coordinates": {
+            "y": 449.8949890136719,
+            "x": 205.42999267578125
+        },
+        "img": "img/2/Marshes.png"
+    },
+    {
+        "base": "Iceberg Map",
+        "name": "Iceberg",
+        "tier": 3,
+        "guild_character": "H",
+        "unique": false,
+        "upgrade": "Strand Map",
+        "connected_to": [
+            {
+                "Name": "Strand Map"
+            }
+        ],
+        "flavour_text": "Icy fangs seek tender hulls to sink themselves into.",
+        "boss": [
+            {
+                "Name": "Yorishi, Aurora-sage"
+            },
+            {
+                "Name": "Jeinei Yuushu"
+            },
+            {
+                "Name": "Otesha, the Giantslayer"
+            }
+        ],
+        "coordinates": {
+            "y": 87.22100067138672,
+            "x": 772.6510009765625
+        },
+        "img": "img/3/Iceberg.png"
+    },
+    {
+        "base": "Cage Map",
+        "name": "Cage",
+        "tier": 3,
+        "guild_character": "I",
+        "unique": false,
+        "upgrade": "City Square Map",
+        "connected_to": [
+            {
+                "Name": "Courthouse Map"
+            },
+            {
+                "Name": "City Square Map"
+            }
+        ],
+        "flavour_text": "Treat a man like a wild animal, and he will soon learn to bite.",
+        "boss": [
+            {
+                "Name": "Executioner Bloodwing"
+            }
+        ],
+        "coordinates": {
+            "y": 437.8320007324219,
+            "x": 790.8690185546875
+        },
+        "img": "img/3/Cage.png"
+    },
+    {
+        "base": "Springs Map",
+        "name": "Springs",
+        "tier": 3,
+        "guild_character": "d",
+        "unique": false,
+        "upgrade": "Chateau Map",
+        "connected_to": [
+            {
+                "Name": "Chateau Map"
+            }
+        ],
+        "flavour_text": "Clear water springs forth. A moment of purity before it too gathers filth.",
+        "boss": [
+            {
+                "Name": "Aulen Greychain"
+            }
+        ],
+        "coordinates": {
+            "y": 468.1449890136719,
+            "x": 261.385986328125
+        },
+        "img": "img/3/Springs.png"
+    },
+    {
+        "base": "Excavation Map",
+        "name": "Excavation",
+        "tier": 3,
+        "guild_character": "S",
+        "unique": false,
+        "upgrade": "Gorge Map",
+        "connected_to": [
+            {
+                "Name": "Grotto Map"
+            },
+            {
+                "Name": "Gorge Map"
+            }
+        ],
+        "flavour_text": "Two unexplored frontiers remain: The skies and the soil.",
+        "boss": [
+            {
+                "Name": "Shrieker Eihal"
+            },
+            {
+                "Name": "Breaker Toruul"
+            }
+        ],
+        "coordinates": {
+            "y": 144.58599853515625,
+            "x": 186.01800537109375
+        },
+        "img": "img/3/Excavation.png"
+    },
+    {
+        "base": "Leyline Map",
+        "name": "Leyline",
+        "tier": 3,
+        "guild_character": "G",
+        "unique": false,
+        "upgrade": "Volcano Map",
+        "connected_to": [
+            {
+                "Name": "Gorge Map"
+            },
+            {
+                "Name": "Volcano Map"
+            }
+        ],
+        "flavour_text": "Amidst the barren wastes, a slender strand of life blooms.",
+        "boss": [
+            {
+                "Name": "Mirage of Bones"
+            }
+        ],
+        "coordinates": {
+            "y": 156.802001953125,
+            "x": 156.25399780273438
+        },
+        "img": "img/3/Leyline.png"
+    },
+    {
+        "base": "Peninsula Map",
+        "name": "Peninsula",
+        "tier": 3,
+        "guild_character": "*",
+        "unique": false,
+        "upgrade": "Canyon Map",
+        "connected_to": [
+            {
+                "Name": "Strand Map"
+            },
+            {
+                "Name": "Canyon Map"
+            }
+        ],
+        "flavour_text": "The farmer no longer plows\r\nor sows. Only the flattened\r\nsoil remains.",
+        "boss": [
+            {
+                "Name": "Titan of the Grove"
+            }
+        ],
+        "coordinates": {
+            "y": 172.56700134277344,
+            "x": 815.8410034179688
+        },
+        "img": "img/3/Peninsula.png"
+    },
+    {
+        "base": "Port Map",
+        "name": "Port",
+        "tier": 3,
+        "guild_character": "e",
+        "unique": false,
+        "upgrade": "Lighthouse Map",
+        "connected_to": [
+            {
+                "Name": "Lighthouse Map"
+            }
+        ],
+        "flavour_text": "The wealthy foolishly battle the ocean for domain.",
+        "boss": [
+            {
+                "Name": "Unravelling Horror"
+            },
+            {
+                "Name": "Unravelling Horror"
+            },
+            {
+                "Name": "Unravelling Horror"
+            },
+            {
+                "Name": "Unravelling Horror"
+            },
+            {
+                "Name": "Unravelling Horror"
+            }
+        ],
+        "coordinates": {
+            "y": 361.1719970703125,
+            "x": 833.447021484375
+        },
+        "img": "img/3/Port.png"
+    },
+    {
+        "base": "Burial Chambers Map",
+        "name": "Burial Chambers",
+        "tier": 3,
+        "guild_character": "E",
+        "unique": false,
+        "upgrade": "Relic Chambers Map",
+        "connected_to": [
+            {
+                "Name": "Relic Chambers Map"
+            }
+        ],
+        "flavour_text": "Vile fiends hide beneath the peaceful plains.",
+        "boss": [
+            {
+                "Name": "Witch of the Cauldron"
+            }
+        ],
+        "coordinates": {
+            "y": 411.2099914550781,
+            "x": 165.0709991455078
+        },
+        "img": "img/3/Burial_Chambers.png"
+    },
+    {
+        "base": "Cells Map",
+        "name": "Cells",
+        "tier": 3,
+        "guild_character": "\u00da",
+        "unique": false,
+        "upgrade": "Grotto Map",
+        "connected_to": [
+            {
+                "Name": "Grotto Map"
+            }
+        ],
+        "flavour_text": "Life crushed together. Left to crumble to dust.",
+        "boss": [
+            {
+                "Name": "Megaera"
+            }
+        ],
+        "coordinates": {
+            "y": 94.0199966430664,
+            "x": 204.18499755859375
+        },
+        "img": "img/3/Cells.png"
+    },
+    {
+        "base": "Arcade Map",
+        "name": "Arcade",
+        "tier": 3,
+        "guild_character": "+",
+        "unique": false,
+        "upgrade": "Courthouse Map",
+        "connected_to": [
+            {
+                "Name": "Courthouse Map"
+            }
+        ],
+        "flavour_text": "We create so that some part of us may remain after death.",
+        "boss": [
+            {
+                "Name": "Herald of Ashes"
+            },
+            {
+                "Name": "Herald of Thunder"
+            }
+        ],
+        "coordinates": {
+            "y": 386.7640075683594,
+            "x": 811.5800170898438
+        },
+        "img": "img/3/Arcade.png"
+    },
+    {
+        "base": "City Square Map",
+        "name": "City Square",
+        "tier": 4,
+        "guild_character": "\u00d6",
+        "unique": false,
+        "upgrade": "Conservatory Map",
+        "connected_to": [
+            {
+                "Name": "Conservatory Map"
+            },
+            {
+                "Name": "Haunted Mansion Map"
+            }
+        ],
+        "flavour_text": "Countless generations have walked these time-worn stones.",
+        "boss": [
+            {
+                "Name": "Carius, the Unnatural"
+            },
+            {
+                "Name": "Pileah, Corpse Burner"
+            },
+            {
+                "Name": "Pileah, Burning Corpse"
+            }
+        ],
+        "coordinates": {
+            "y": 467.5090026855469,
+            "x": 758.9229736328125
+        },
+        "img": "img/4/City_Square.png"
+    },
+    {
+        "base": "Relic Chambers Map",
+        "name": "Relic Chambers",
+        "tier": 4,
+        "guild_character": "1",
+        "unique": false,
+        "upgrade": "Barrows Map",
+        "connected_to": [
+            {
+                "Name": "Barrows Map"
+            }
+        ],
+        "flavour_text": "Relics of a forbidden past. Hidden away. Forgotten.",
+        "boss": [
+            {
+                "Name": "Litanius, the Black Prayer"
+            }
+        ],
+        "coordinates": {
+            "y": 365.947998046875,
+            "x": 168.5240020751953
+        },
+        "img": "img/4/Relic_Chambers.png"
+    },
+    {
+        "base": "Courthouse Map",
+        "name": "Courthouse",
+        "tier": 4,
+        "guild_character": "f",
+        "unique": false,
+        "upgrade": "Haunted Mansion Map",
+        "connected_to": [
+            {
+                "Name": "Ivory Temple Map"
+            },
+            {
+                "Name": "Haunted Mansion Map"
+            }
+        ],
+        "flavour_text": "Justice born of love is a surrender. Justice born of law is a punishment.",
+        "boss": [
+            {
+                "Name": "Bolt Brownfur, Earth Churner"
+            },
+            {
+                "Name": "Thena Moga, the Crimson Storm"
+            },
+            {
+                "Name": "Ion Darkshroud, the Hungering Blade"
+            }
+        ],
+        "coordinates": {
+            "y": 410.46600341796875,
+            "x": 784.3880004882812
+        },
+        "img": "img/4/Courthouse.png"
+    },
+    {
+        "base": "Strand Map",
+        "name": "Strand",
+        "tier": 4,
+        "guild_character": "8",
+        "unique": false,
+        "upgrade": "Ancient City Map",
+        "connected_to": [
+            {
+                "Name": "Ancient City Map"
+            }
+        ],
+        "flavour_text": "Nothing good washes up\r\non this dark shore.",
+        "boss": [
+            {
+                "Name": "Master of the Blade"
+            },
+            {
+                "Name": "Massier"
+            }
+        ],
+        "coordinates": {
+            "y": 120.49700164794922,
+            "x": 794.7160034179688
+        },
+        "img": "img/4/Strand.png"
+    },
+    {
+        "base": "Strand Map",
+        "name": "Whakawairua Tuahu",
+        "tier": 4,
+        "guild_character": "8",
+        "unique": true,
+        "upgrade": "Ancient City Map",
+        "connected_to": [
+            {
+                "Name": "Ancient City Map"
+            }
+        ],
+        "flavour_text": "We all began life in darkness, we shall all end it there.",
+        "boss": [
+            {
+                "Name": "Tormented Temptress"
+            }
+        ],
+        "coordinates": {
+            "y": 103.49199676513672,
+            "x": 757.3419799804688
+        },
+        "img": "img/unique/Whakawairua_Tuahu.png"
+    },
+    {
+        "base": "Chateau Map",
+        "name": "Chateau",
+        "tier": 4,
+        "guild_character": "O",
+        "unique": false,
+        "upgrade": "Toxic Sewer Map",
+        "connected_to": [
+            {
+                "Name": "Toxic Sewer Map"
+            }
+        ],
+        "flavour_text": "Beauty and brutality in such close proximity.",
+        "boss": [
+            {
+                "Name": "The Reaver"
+            }
+        ],
+        "coordinates": {
+            "y": 415.6910095214844,
+            "x": 211.10000610351562
+        },
+        "img": "img/4/Chateau.png"
+    },
+    {
+        "base": "Grotto Map",
+        "name": "Grotto",
+        "tier": 4,
+        "guild_character": "h",
+        "unique": false,
+        "upgrade": "Maze Map",
+        "connected_to": [
+            {
+                "Name": "Maze Map"
+            },
+            {
+                "Name": "Channel Map"
+            }
+        ],
+        "flavour_text": "Trapped in absolute darkness. Despair. Panic. Terror.",
+        "boss": [
+            {
+                "Name": "Void Anomaly"
+            }
+        ],
+        "coordinates": {
+            "y": 120.25399780273438,
+            "x": 219.53599548339844
+        },
+        "img": "img/4/Grotto.png"
+    },
+    {
+        "base": "Gorge Map",
+        "name": "Gorge",
+        "tier": 4,
+        "guild_character": "U",
+        "unique": false,
+        "upgrade": "Channel Map",
+        "connected_to": [
+            {
+                "Name": "Channel Map"
+            },
+            {
+                "Name": "Sulphur Vents Map"
+            }
+        ],
+        "flavour_text": "We must all walk the narrow,\r\nwinding path. The end\r\nis always the same.",
+        "boss": [
+            {
+                "Name": "Rek'tar, the Breaker"
+            }
+        ],
+        "coordinates": {
+            "y": 190.4080047607422,
+            "x": 200.63400268554688
+        },
+        "img": "img/4/Gorge.png"
+    },
+    {
+        "base": "Volcano Map",
+        "name": "Volcano",
+        "tier": 4,
+        "guild_character": "i",
+        "unique": false,
+        "upgrade": "Sulphur Vents Map",
+        "connected_to": [
+            {
+                "Name": "Sulphur Vents Map"
+            }
+        ],
+        "flavour_text": "Tremble in the might\r\nof the flames.",
+        "boss": [
+            {
+                "Name": "Forest of Flames"
+            }
+        ],
+        "coordinates": {
+            "y": 200.2530059814453,
+            "x": 163.37399291992188
+        },
+        "img": "img/4/Volcano.png"
+    },
+    {
+        "base": "Lighthouse Map",
+        "name": "Lighthouse",
+        "tier": 4,
+        "guild_character": "F",
+        "unique": false,
+        "upgrade": "Ivory Temple Map",
+        "connected_to": [
+            {
+                "Name": "Ivory Temple Map"
+            }
+        ],
+        "flavour_text": "Fire ignites the sky.\r\nA signal to keep away.\r\nAn invitation to invade.",
+        "boss": [
+            {
+                "Name": "Uruk Baleh"
+            },
+            {
+                "Name": "El'Abin, Bloodeater"
+            },
+            {
+                "Name": "Leli Goya, Daughter of Ash"
+            },
+            {
+                "Name": "Bin'aia, Crimson Rain"
+            }
+        ],
+        "coordinates": {
+            "y": 301.3340148925781,
+            "x": 826.85302734375
+        },
+        "img": "img/4/Lighthouse.png"
+    },
+    {
+        "base": "Canyon Map",
+        "name": "Canyon",
+        "tier": 4,
+        "guild_character": "j",
+        "unique": false,
+        "upgrade": "Spider Lair Map",
+        "connected_to": [
+            {
+                "Name": "Spider Lair Map"
+            }
+        ],
+        "flavour_text": "A deep wound in the land. One that will never heal.",
+        "boss": [
+            {
+                "Name": "Gnar, Eater of Carrion"
+            },
+            {
+                "Name": "Stonebeak, Battle Fowl"
+            }
+        ],
+        "coordinates": {
+            "y": 236.76600646972656,
+            "x": 826.4829711914062
+        },
+        "img": "img/4/Canyon.png"
+    },
+    {
+        "base": "Conservatory Map",
+        "name": "Conservatory",
+        "tier": 5,
+        "guild_character": "6",
+        "unique": false,
+        "upgrade": "Academy Map",
+        "connected_to": [
+            {
+                "Name": "Academy Map"
+            }
+        ],
+        "flavour_text": "Ornate, elaborate, ostentatious... and dripping with death.",
+        "boss": [
+            {
+                "Name": "The Forgotten Soldier"
+            }
+        ],
+        "coordinates": {
+            "y": 483.031005859375,
+            "x": 716.22802734375
+        },
+        "img": "img/5/Conservatory.png"
+    },
+    {
+        "base": "Sulphur Vents Map",
+        "name": "Sulphur Vents",
+        "tier": 5,
+        "guild_character": "P",
+        "unique": false,
+        "upgrade": "Ashen Wood Map",
+        "connected_to": [
+            {
+                "Name": "Ashen Wood Map"
+            },
+            {
+                "Name": "Atoll Map"
+            }
+        ],
+        "flavour_text": "The creatures that prowl the wildest extremes, nature anoints with cruel efficacy to defend her.",
+        "boss": [
+            {
+                "Name": "The Gorgon"
+            }
+        ],
+        "coordinates": {
+            "y": 249.02499389648438,
+            "x": 176.41299438476562
+        },
+        "img": "img/5/Sulphur_Vents.png"
+    },
+    {
+        "base": "Haunted Mansion Map",
+        "name": "Haunted Mansion",
+        "tier": 5,
+        "guild_character": "k",
+        "unique": false,
+        "upgrade": "Wharf Map",
+        "connected_to": [
+            {
+                "Name": "Academy Map"
+            },
+            {
+                "Name": "Wharf Map"
+            }
+        ],
+        "flavour_text": "Forlorn and sorrowful, this once opulent ruin conceals the sins of a fallen line.",
+        "boss": [
+            {
+                "Name": "Barthol, the Pure"
+            },
+            {
+                "Name": "Barthol, the Corruptor"
+            }
+        ],
+        "coordinates": {
+            "y": 450.0060119628906,
+            "x": 744.4180297851562
+        },
+        "img": "img/5/Haunted_Mansion.png"
+    },
+    {
+        "base": "Maze Map",
+        "name": "Maze",
+        "tier": 5,
+        "guild_character": "l",
+        "unique": false,
+        "upgrade": "Underground Sea Map",
+        "connected_to": [
+            {
+                "Name": "Underground Sea Map"
+            }
+        ],
+        "flavour_text": "They live trapped forever in darkness and confusion. We are no different.",
+        "boss": [
+            {
+                "Name": "Shadow of the Vaal"
+            }
+        ],
+        "coordinates": {
+            "y": 95.81700134277344,
+            "x": 258.5350036621094
+        },
+        "img": "img/5/Maze.png"
+    },
+    {
+        "base": "Channel Map",
+        "name": "Channel",
+        "tier": 5,
+        "guild_character": "Z",
+        "unique": false,
+        "upgrade": "Atoll Map",
+        "connected_to": [
+            {
+                "Name": "Underground Sea Map"
+            },
+            {
+                "Name": "Atoll Map"
+            }
+        ],
+        "flavour_text": "The stone cannot stop the torrent. It can only divert it.",
+        "boss": [
+            {
+                "Name": "The Winged Death"
+            }
+        ],
+        "coordinates": {
+            "y": 147.12600708007812,
+            "x": 215.58900451660156
+        },
+        "img": "img/5/Channel.png"
+    },
+    {
+        "base": "Toxic Sewer Map",
+        "name": "Toxic Sewer",
+        "tier": 5,
+        "guild_character": "\u00cf",
+        "unique": false,
+        "upgrade": "Cemetery Map",
+        "connected_to": [
+            {
+                "Name": "Phantasmagoria Map"
+            },
+            {
+                "Name": "Cemetery Map"
+            }
+        ],
+        "flavour_text": "Affluence and effluence, separated by a few feet of soil.",
+        "boss": [
+            {
+                "Name": "Arachnoxia"
+            }
+        ],
+        "coordinates": {
+            "y": 392.5480041503906,
+            "x": 224.9429931640625
+        },
+        "img": "img/5/Toxic_Sewer.png"
+    },
+    {
+        "base": "Ancient City Map",
+        "name": "Ancient City",
+        "tier": 5,
+        "guild_character": "R",
+        "unique": false,
+        "upgrade": "Fields Map",
+        "connected_to": [
+            {
+                "Name": "Fields Map"
+            }
+        ],
+        "flavour_text": "This was not the first\r\ncivilization to believe itself\r\nthe greatest. And it will\r\nnot be the last.",
+        "boss": [
+            {
+                "Name": "Lady Stormflay"
+            }
+        ],
+        "coordinates": {
+            "y": 146.04400634765625,
+            "x": 780.2030029296875
+        },
+        "img": "img/5/Ancient_City.png"
+    },
+    {
+        "base": "Ivory Temple Map",
+        "name": "Ivory Temple",
+        "tier": 5,
+        "guild_character": "m",
+        "unique": false,
+        "upgrade": "Thicket Map",
+        "connected_to": [
+            {
+                "Name": "Thicket Map"
+            },
+            {
+                "Name": "Wharf Map"
+            }
+        ],
+        "flavour_text": "Man and nature intertwined, but only for the chosen few.",
+        "boss": [
+            {
+                "Name": "Platinia"
+            },
+            {
+                "Name": "Auriot"
+            },
+            {
+                "Name": "Rhodion"
+            },
+            {
+                "Name": "Pallias"
+            },
+            {
+                "Name": "Argient"
+            },
+            {
+                "Name": "Rheniot"
+            }
+        ],
+        "coordinates": {
+            "y": 349.7099914550781,
+            "x": 798.3920288085938
+        },
+        "img": "img/5/Ivory_Temple.png"
+    },
+    {
+        "base": "Spider Lair Map",
+        "name": "Spider Lair",
+        "tier": 5,
+        "guild_character": "M",
+        "unique": false,
+        "upgrade": "Jungle Valley Map",
+        "connected_to": [
+            {
+                "Name": "Fields Map"
+            },
+            {
+                "Name": "Thicket Map"
+            },
+            {
+                "Name": "Jungle Valley Map"
+            }
+        ],
+        "flavour_text": "Panic only hastens the venom's passage to the heart.",
+        "boss": [
+            {
+                "Name": "Thraxia"
+            }
+        ],
+        "coordinates": {
+            "y": 241.2050018310547,
+            "x": 803.5540161132812
+        },
+        "img": "img/5/Spider_Lair.png"
+    },
+    {
+        "base": "Barrows Map",
+        "name": "Barrows",
+        "tier": 5,
+        "guild_character": "n",
+        "unique": false,
+        "upgrade": "Mausoleum Map",
+        "connected_to": [
+            {
+                "Name": "Ashen Wood Map"
+            },
+            {
+                "Name": "Mausoleum Map"
+            },
+            {
+                "Name": "Cemetery Map"
+            }
+        ],
+        "flavour_text": "Man burrows for only the eternal hibernation.",
+        "boss": [
+            {
+                "Name": "Beast of the Pits"
+            }
+        ],
+        "coordinates": {
+            "y": 309.73699951171875,
+            "x": 179.64100646972656
+        },
+        "img": "img/5/Barrows.png"
+    },
+    {
+        "base": "Mausoleum Map",
+        "name": "Mausoleum",
+        "tier": 6,
+        "guild_character": "[",
+        "unique": false,
+        "upgrade": "Lava Chamber Map",
+        "connected_to": [
+            {
+                "Name": "Lava Chamber Map"
+            }
+        ],
+        "flavour_text": "A vault for the dead, as if they were valuable. Pathetic.",
+        "boss": [
+            {
+                "Name": "Tolman, the Exhumer"
+            }
+        ],
+        "coordinates": {
+            "y": 309.3760070800781,
+            "x": 258.322998046875
+        },
+        "img": "img/6/Mausoleum.png"
+    },
+    {
+        "base": "Fields Map",
+        "name": "Fields",
+        "tier": 6,
+        "guild_character": "\u00d1",
+        "unique": false,
+        "upgrade": "Residence Map",
+        "connected_to": [
+            {
+                "Name": "Residence Map"
+            }
+        ],
+        "flavour_text": "They pleaded for the gods to bless their land. Now they lie under the soil.",
+        "boss": [
+            {
+                "Name": "Drek, Apex Hunter"
+            }
+        ],
+        "coordinates": {
+            "y": 168.75900268554688,
+            "x": 737.1810302734375
+        },
+        "img": "img/6/Fields.png"
+    },
+    {
+        "base": "Jungle Valley Map",
+        "name": "Jungle Valley",
+        "tier": 6,
+        "guild_character": "5",
+        "unique": false,
+        "upgrade": "Coral Ruins Map",
+        "connected_to": [
+            {
+                "Name": "Coral Ruins Map"
+            },
+            {
+                "Name": "Arachnid Nest Map"
+            }
+        ],
+        "flavour_text": "Verdant canopies shroud the world in darkness.",
+        "boss": [
+            {
+                "Name": "Queen of the Great Tangle"
+            }
+        ],
+        "coordinates": {
+            "y": 242.9080047607422,
+            "x": 762.4409790039062
+        },
+        "img": "img/6/Jungle_Valley.png"
+    },
+    {
+        "base": "Phantasmagoria Map",
+        "name": "Phantasmagoria",
+        "tier": 6,
+        "guild_character": "o",
+        "unique": false,
+        "upgrade": "Dunes Map",
+        "connected_to": [
+            {
+                "Name": "Bone Crypt Map"
+            },
+            {
+                "Name": "Dunes Map"
+            }
+        ],
+        "flavour_text": "Every movement is watched, recorded, remembered.",
+        "boss": [
+            {
+                "Name": "Erythrophagia"
+            }
+        ],
+        "coordinates": {
+            "y": 432.0220031738281,
+            "x": 303.5069885253906
+        },
+        "img": "img/6/Phantasmagoria.png"
+    },
+    {
+        "base": "Academy Map",
+        "name": "Academy",
+        "tier": 6,
+        "guild_character": "\u00c6",
+        "unique": false,
+        "upgrade": "Tribunal Map",
+        "connected_to": [
+            {
+                "Name": "Tribunal Map"
+            },
+            {
+                "Name": "Gardens Map"
+            }
+        ],
+        "flavour_text": "They came for enlightenment, but were imprisoned by madness.",
+        "boss": [
+            {
+                "Name": "The Arbiter of Knowledge"
+            }
+        ],
+        "coordinates": {
+            "y": 469.7349853515625,
+            "x": 663.22900390625
+        },
+        "img": "img/6/Academy.png"
+    },
+    {
+        "base": "Thicket Map",
+        "name": "Thicket",
+        "tier": 6,
+        "guild_character": "B",
+        "unique": false,
+        "upgrade": "Arachnid Nest Map",
+        "connected_to": [
+            {
+                "Name": "Arachnid Nest Map"
+            }
+        ],
+        "flavour_text": "Little light enters.\r\nNo life escapes.",
+        "boss": [
+            {
+                "Name": "The Primal One"
+            }
+        ],
+        "coordinates": {
+            "y": 279.27301025390625,
+            "x": 776.31201171875
+        },
+        "img": "img/6/Thicket.png"
+    },
+    {
+        "base": "Wharf Map",
+        "name": "Wharf",
+        "tier": 6,
+        "guild_character": "\u00cb",
+        "unique": false,
+        "upgrade": "Bazaar Map",
+        "connected_to": [
+            {
+                "Name": "Bazaar Map"
+            }
+        ],
+        "flavour_text": "Reach out into the abyss, and the abyss reaches back.",
+        "boss": [
+            {
+                "Name": "Stone of the Currents"
+            }
+        ],
+        "coordinates": {
+            "y": 396.968994140625,
+            "x": 747.4959716796875
+        },
+        "img": "img/6/Wharf.png"
+    },
+    {
+        "base": "Ashen Wood Map",
+        "name": "Ashen Wood",
+        "tier": 6,
+        "guild_character": "K",
+        "unique": false,
+        "upgrade": "Lava Chamber Map",
+        "connected_to": [
+            {
+                "Name": "Lava Chamber Map"
+            }
+        ],
+        "flavour_text": "Desperately reaching skyward\r\nand digging downwards.\r\nSustenance is an\r\neternal struggle.",
+        "boss": [
+            {
+                "Name": "Lord of the Ashen Arrow"
+            }
+        ],
+        "coordinates": {
+            "y": 275.2250061035156,
+            "x": 231.5959930419922
+        },
+        "img": "img/6/Ashen_Wood.png"
+    },
+    {
+        "base": "Atoll Map",
+        "name": "Atoll",
+        "tier": 6,
+        "guild_character": "\u00cd",
+        "unique": false,
+        "upgrade": "Ramparts Map",
+        "connected_to": [
+            {
+                "Name": "Ramparts Map"
+            }
+        ],
+        "flavour_text": "Time turns even the vicious volcanoes to hollow shells.",
+        "boss": [
+            {
+                "Name": "Puruna, the Challenger"
+            }
+        ],
+        "coordinates": {
+            "y": 195.50599670410156,
+            "x": 239.87899780273438
+        },
+        "img": "img/6/Atoll.png"
+    },
+    {
+        "base": "Atoll Map",
+        "name": "Maelstr\u00f6m of Chaos",
+        "tier": 6,
+        "guild_character": "\u00cd",
+        "unique": true,
+        "upgrade": "Ramparts Map",
+        "connected_to": [
+            {
+                "Name": "Ramparts Map"
+            }
+        ],
+        "flavour_text": "Whispers from\r\na world apart\r\nSpeak my name\r\nbeyond the tomb;\r\nBound within\r\nthe Maelstr\u00f6m's heart,\r\nWill they grant me\r\nstrength or doom?",
+        "boss": [
+            {
+                "Name": "Merveil, the Reflection"
+            },
+            {
+                "Name": "Merveil, the Returned"
+            }
+        ],
+        "coordinates": {
+            "y": 238.40899658203125,
+            "x": 238.50399780273438
+        },
+        "img": "img/unique/Maelstroem_of_Chaos.png"
+    },
+    {
+        "base": "Cemetery Map",
+        "name": "Cemetery",
+        "tier": 6,
+        "guild_character": "L",
+        "unique": false,
+        "upgrade": "Bone Crypt Map",
+        "connected_to": [
+            {
+                "Name": "Bone Crypt Map"
+            }
+        ],
+        "flavour_text": "A stone forest of forgotten names.",
+        "boss": [
+            {
+                "Name": "Erebix, Light's Bane"
+            }
+        ],
+        "coordinates": {
+            "y": 351.54901123046875,
+            "x": 240.7949981689453
+        },
+        "img": "img/6/Cemetery.png"
+    },
+    {
+        "base": "Cemetery Map",
+        "name": "Hallowed Ground",
+        "tier": 6,
+        "guild_character": "L",
+        "unique": true,
+        "upgrade": "Bone Crypt Map",
+        "connected_to": [
+            {
+                "Name": "Bone Crypt Map"
+            }
+        ],
+        "flavour_text": "Some dead have long\r\nenvied the living.\r\nWhen given the chance,\r\nthey take from us what they can.\r\nSo we offer our suffrage.\r\nIn return, they give\r\nonly suffering.",
+        "boss": [
+            {
+                "Name": "Maker of Mires"
+            }
+        ],
+        "coordinates": {
+            "y": 340.031005859375,
+            "x": 278.7550048828125
+        },
+        "img": "img/unique/Hallowed_Ground.png"
+    },
+    {
+        "base": "Underground Sea Map",
+        "name": "Underground Sea",
+        "tier": 6,
+        "guild_character": "q",
+        "unique": false,
+        "upgrade": "Underground River Map",
+        "connected_to": [
+            {
+                "Name": "Underground River Map"
+            },
+            {
+                "Name": "Ramparts Map"
+            }
+        ],
+        "flavour_text": "Silent stillness. The waters are as cold as they are black.",
+        "boss": [
+            {
+                "Name": "Merveil, the Reflection"
+            }
+        ],
+        "coordinates": {
+            "y": 123.39199829101562,
+            "x": 286.6080017089844
+        },
+        "img": "img/6/Underground_Sea.png"
+    },
+    {
+        "base": "Tribunal Map",
+        "name": "Tribunal",
+        "tier": 7,
+        "guild_character": "D",
+        "unique": false,
+        "upgrade": "Vaal Pyramid Map",
+        "connected_to": [
+            {
+                "Name": "Vaal Pyramid Map"
+            }
+        ],
+        "flavour_text": "So much power in the hands of so few.",
+        "boss": [
+            {
+                "Name": "Shavronne the Sickening"
+            }
+        ],
+        "coordinates": {
+            "y": 446.2229919433594,
+            "x": 664.7540283203125
+        },
+        "img": "img/7/Tribunal.png"
+    },
+    {
+        "base": "Coral Ruins Map",
+        "name": "Coral Ruins",
+        "tier": 7,
+        "guild_character": "\u00c1",
+        "unique": false,
+        "upgrade": "Infested Valley Map",
+        "connected_to": [
+            {
+                "Name": "Infested Valley Map"
+            }
+        ],
+        "flavour_text": "Thrust above the waves, still teeming with horrors from the depths.",
+        "boss": [
+            {
+                "Name": "Captain Tanner Lightfoot"
+            }
+        ],
+        "coordinates": {
+            "y": 229.94900512695312,
+            "x": 729.0339965820312
+        },
+        "img": "img/7/Coral_Ruins.png"
+    },
+    {
+        "base": "Lava Chamber Map",
+        "name": "Lava Chamber",
+        "tier": 7,
+        "guild_character": "Q",
+        "unique": false,
+        "upgrade": "Overgrown Ruin Map",
+        "connected_to": [
+            {
+                "Name": "Armoury Map"
+            },
+            {
+                "Name": "Overgrown Ruin Map"
+            }
+        ],
+        "flavour_text": "Fiend and fortune-hunter alike turned to ash. A sorry alliance of unending agony.",
+        "boss": [
+            {
+                "Name": "Fire and Fury"
+            }
+        ],
+        "coordinates": {
+            "y": 255.38800048828125,
+            "x": 255.93600463867188
+        },
+        "img": "img/7/Lava_Chamber.png"
+    },
+    {
+        "base": "Residence Map",
+        "name": "Residence",
+        "tier": 7,
+        "guild_character": "T",
+        "unique": false,
+        "upgrade": "Courtyard Map",
+        "connected_to": [
+            {
+                "Name": "Courtyard Map"
+            }
+        ],
+        "flavour_text": "Home only to misery now.",
+        "boss": [
+            {
+                "Name": "Excellis Aurafix"
+            }
+        ],
+        "coordinates": {
+            "y": 114.08599853515625,
+            "x": 707.5819702148438
+        },
+        "img": "img/7/Residence.png"
+    },
+    {
+        "base": "Ramparts Map",
+        "name": "Ramparts",
+        "tier": 7,
+        "guild_character": "\u00dc",
+        "unique": false,
+        "upgrade": "Armoury Map",
+        "connected_to": [
+            {
+                "Name": "Armoury Map"
+            }
+        ],
+        "flavour_text": "A wall is the surest sign for raiders that there is something of value to take.",
+        "boss": [
+            {
+                "Name": "Legius Garhall"
+            }
+        ],
+        "coordinates": {
+            "y": 168.85000610351562,
+            "x": 284.5979919433594
+        },
+        "img": "img/7/Ramparts.png"
+    },
+    {
+        "base": "Dunes Map",
+        "name": "Dunes",
+        "tier": 7,
+        "guild_character": "A",
+        "unique": false,
+        "upgrade": "Shore Map",
+        "connected_to": [
+            {
+                "Name": "Mud Geyser Map"
+            },
+            {
+                "Name": "Shore Map"
+            }
+        ],
+        "flavour_text": "Shifting, morphing, expanding. A reminder of the virtues of an agile mind.",
+        "boss": [
+            {
+                "Name": "The Blacksmith"
+            }
+        ],
+        "coordinates": {
+            "y": 450.4469909667969,
+            "x": 369.5849914550781
+        },
+        "img": "img/7/Dunes.png"
+    },
+    {
+        "base": "Dunes Map",
+        "name": "Pillars of Arun",
+        "tier": 7,
+        "guild_character": "A",
+        "unique": true,
+        "upgrade": "Shore Map",
+        "connected_to": [
+            {
+                "Name": "Mud Geyser Map"
+            },
+            {
+                "Name": "Shore Map"
+            }
+        ],
+        "flavour_text": "Man creates where nature cannot.",
+        "boss": [
+            {
+                "Name": "Talin, Faithbreaker"
+            }
+        ],
+        "coordinates": {
+            "y": 472.1600036621094,
+            "x": 351.510009765625
+        },
+        "img": "img/unique/Pillars_of_Arun.png"
+    },
+    {
+        "base": "Bone Crypt Map",
+        "name": "Bone Crypt",
+        "tier": 7,
+        "guild_character": "V",
+        "unique": false,
+        "upgrade": "Mud Geyser Map",
+        "connected_to": [
+            {
+                "Name": "Mud Geyser Map"
+            }
+        ],
+        "flavour_text": "The dead ask to be remembered,\r\nbut such requests\r\nare seldom met.",
+        "boss": [
+            {
+                "Name": "Xixic, High Necromancer"
+            }
+        ],
+        "coordinates": {
+            "y": 386.6409912109375,
+            "x": 294.97900390625
+        },
+        "img": "img/7/Bone_Crypt.png"
+    },
+    {
+        "base": "Bone Crypt Map",
+        "name": "Olmec's Sanctum",
+        "tier": 7,
+        "guild_character": "V",
+        "unique": true,
+        "upgrade": "Mud Geyser Map",
+        "connected_to": [
+            {
+                "Name": "Mud Geyser Map"
+            }
+        ],
+        "flavour_text": "They flew, and leapt,\r\nand clambered over,\r\nThey crawled, and swam,\r\nand slithered under.\r\nStill its ancient secrets\r\nawait unclaimed\r\nAnd of this hidden temple,\r\nonly legends remain.",
+        "boss": [
+            {
+                "Name": "Olmec, the All Stone"
+            }
+        ],
+        "coordinates": {
+            "y": 388.3760070800781,
+            "x": 265.1600036621094
+        },
+        "img": "img/unique/Olmecs_Sanctum.png"
+    },
+    {
+        "base": "Underground River Map",
+        "name": "Underground River",
+        "tier": 7,
+        "guild_character": "9",
+        "unique": false,
+        "upgrade": "Geode Map",
+        "connected_to": [
+            {
+                "Name": "Mineral Pools Map"
+            },
+            {
+                "Name": "Geode Map"
+            }
+        ],
+        "flavour_text": "Life, like still water, becomes trapped. Stagnant. Foul.",
+        "boss": [
+            {
+                "Name": "It That Fell"
+            }
+        ],
+        "coordinates": {
+            "y": 109.88300323486328,
+            "x": 346.489013671875
+        },
+        "img": "img/7/Underground_River.png"
+    },
+    {
+        "base": "Underground River Map",
+        "name": "Caer Blaidd, Wolfpack's Den",
+        "tier": 7,
+        "guild_character": "9",
+        "unique": true,
+        "upgrade": "Geode Map",
+        "connected_to": [
+            {
+                "Name": "Mineral Pools Map"
+            },
+            {
+                "Name": "Geode Map"
+            }
+        ],
+        "flavour_text": "Howls and laughter\r\nThey hide in the day\r\nThey smell you, they watch you\r\nThey track their new prey",
+        "boss": [
+            {
+                "Name": "Winterfang"
+            },
+            {
+                "Name": "Storm Eye"
+            },
+            {
+                "Name": "Solus, Pack Alpha"
+            }
+        ],
+        "coordinates": {
+            "y": 79.75800323486328,
+            "x": 333.7099914550781
+        },
+        "img": "img/unique/Caer_Blaidd_Wolfpacks_Den.png"
+    },
+    {
+        "base": "Gardens Map",
+        "name": "Gardens",
+        "tier": 7,
+        "guild_character": "J",
+        "unique": false,
+        "upgrade": "Tropical Island Map",
+        "connected_to": [
+            {
+                "Name": "Tropical Island Map"
+            }
+        ],
+        "flavour_text": "Vibrant colours dash across the grey, consuming Man's work.",
+        "boss": [
+            {
+                "Name": "Sallazzang"
+            }
+        ],
+        "coordinates": {
+            "y": 486.9800109863281,
+            "x": 590.4769897460938
+        },
+        "img": "img/7/Gardens.png"
+    },
+    {
+        "base": "Arachnid Nest Map",
+        "name": "Arachnid Nest",
+        "tier": 7,
+        "guild_character": "\u00d3",
+        "unique": false,
+        "upgrade": "Infested Valley Map",
+        "connected_to": [
+            {
+                "Name": "Infested Valley Map"
+            }
+        ],
+        "flavour_text": "Man is not the only beast to bend nature to its will.",
+        "boss": [
+            {
+                "Name": "Spinner of False Hope"
+            }
+        ],
+        "coordinates": {
+            "y": 303.93701171875,
+            "x": 739.5159912109375
+        },
+        "img": "img/7/Arachnid_Nest.png"
+    },
+    {
+        "base": "Bazaar Map",
+        "name": "Bazaar",
+        "tier": 7,
+        "guild_character": "Y",
+        "unique": false,
+        "upgrade": "Laboratory Map",
+        "connected_to": [
+            {
+                "Name": "Laboratory Map"
+            }
+        ],
+        "flavour_text": "Greed is the only god here.",
+        "boss": [
+            {
+                "Name": "Ancient Sculptor"
+            }
+        ],
+        "coordinates": {
+            "y": 338.36199951171875,
+            "x": 752.3790283203125
+        },
+        "img": "img/7/Bazaar.png"
+    },
+    {
+        "base": "Laboratory Map",
+        "name": "Laboratory",
+        "tier": 8,
+        "guild_character": "\u00c4",
+        "unique": false,
+        "upgrade": "Scriptorium Map",
+        "connected_to": [
+            {
+                "Name": "Scriptorium Map"
+            },
+            {
+                "Name": "Museum Map"
+            }
+        ],
+        "flavour_text": "My last waking moments looked very much like this place... I miss it. I miss her.",
+        "boss": [
+            {
+                "Name": "Riftwalker"
+            }
+        ],
+        "coordinates": {
+            "y": 366.4930114746094,
+            "x": 715.6909790039062
+        },
+        "img": "img/8/Laboratory.png"
+    },
+    {
+        "base": "Infested Valley Map",
+        "name": "Infested Valley",
+        "tier": 8,
+        "guild_character": "\u0152",
+        "unique": false,
+        "upgrade": "Plateau Map",
+        "connected_to": [
+            {
+                "Name": "Plateau Map"
+            }
+        ],
+        "flavour_text": "Should we feel disgusted at how the weak predate the strong, or should we feel... admiration?",
+        "boss": [
+            {
+                "Name": "Gorulis, Will-Thief"
+            }
+        ],
+        "coordinates": {
+            "y": 276.20001220703125,
+            "x": 695.1920166015625
+        },
+        "img": "img/8/Infested_Valley.png"
+    },
+    {
+        "base": "Overgrown Ruin Map",
+        "name": "Overgrown Ruin",
+        "tier": 8,
+        "guild_character": "]",
+        "unique": false,
+        "upgrade": "Vault Map",
+        "connected_to": [
+            {
+                "Name": "Vault Map"
+            },
+            {
+                "Name": "Waste Pool Map"
+            }
+        ],
+        "flavour_text": "Only fear remains unforgotten, where once magnificent rites drew important crowds.",
+        "boss": [
+            {
+                "Name": "Visceris"
+            }
+        ],
+        "coordinates": {
+            "y": 243.7570037841797,
+            "x": 293.489013671875
+        },
+        "img": "img/8/Overgrown_Ruin.png"
+    },
+    {
+        "base": "Vaal Pyramid Map",
+        "name": "Vaal Pyramid",
+        "tier": 8,
+        "guild_character": "~",
+        "unique": false,
+        "upgrade": "Museum Map",
+        "connected_to": [
+            {
+                "Name": "Estuary Map"
+            },
+            {
+                "Name": "Museum Map"
+            }
+        ],
+        "flavour_text": "A good slave is driven by\r\nonly two thoughts:\r\nservice and sacrifice.",
+        "boss": [
+            {
+                "Name": "The Broken Prince"
+            },
+            {
+                "Name": "The Fallen Queen"
+            },
+            {
+                "Name": "The Hollow Lady"
+            }
+        ],
+        "coordinates": {
+            "y": 439.4939880371094,
+            "x": 624.4600219726562
+        },
+        "img": "img/8/Vaal_Pyramid.png"
+    },
+    {
+        "base": "Vaal Pyramid Map",
+        "name": "Vaults of Atziri",
+        "tier": 8,
+        "guild_character": "~",
+        "unique": true,
+        "upgrade": "Museum Map",
+        "connected_to": [
+            {
+                "Name": "Estuary Map"
+            },
+            {
+                "Name": "Museum Map"
+            }
+        ],
+        "flavour_text": "\"Should I depart this mortal coil,\r\nso shall all of my treasures.\"\r\n- Atziri, Queen of the Vaal",
+        "boss": [],
+        "coordinates": {
+            "y": 462.614013671875,
+            "x": 622.9340209960938
+        },
+        "img": "img/unique/Vaults_of_Atziri.png"
+    },
+    {
+        "base": "Geode Map",
+        "name": "Geode",
+        "tier": 8,
+        "guild_character": "\"",
+        "unique": false,
+        "upgrade": "Sepulchre Map",
+        "connected_to": [
+            {
+                "Name": "Sepulchre Map"
+            },
+            {
+                "Name": "Vault Map"
+            }
+        ],
+        "flavour_text": "Many hands may\r\nmove a mountain.",
+        "boss": [
+            {
+                "Name": "Avatar of Undoing"
+            }
+        ],
+        "coordinates": {
+            "y": 146.21299743652344,
+            "x": 330.4230041503906
+        },
+        "img": "img/8/Geode.png"
+    },
+    {
+        "base": "Armoury Map",
+        "name": "Armoury",
+        "tier": 8,
+        "guild_character": "r",
+        "unique": false,
+        "upgrade": "Vault Map",
+        "connected_to": [
+            {
+                "Name": "Vault Map"
+            }
+        ],
+        "flavour_text": "There is no war. There is no army. Only fear lingers.",
+        "boss": [
+            {
+                "Name": "Warmonger"
+            }
+        ],
+        "coordinates": {
+            "y": 215.77099609375,
+            "x": 268.5329895019531
+        },
+        "img": "img/8/Armoury.png"
+    },
+    {
+        "base": "Courtyard Map",
+        "name": "Courtyard",
+        "tier": 8,
+        "guild_character": "4",
+        "unique": false,
+        "upgrade": "Arena Map",
+        "connected_to": [
+            {
+                "Name": "Temple Map"
+            },
+            {
+                "Name": "Arena Map"
+            }
+        ],
+        "flavour_text": "An elaborate, beautiful garden, hidden from the public. Selfish.",
+        "boss": [
+            {
+                "Name": "Oriath's Virtue"
+            },
+            {
+                "Name": "Oriath's Vengeance"
+            },
+            {
+                "Name": "Oriath's Vigil"
+            }
+        ],
+        "coordinates": {
+            "y": 94.5979995727539,
+            "x": 610.8460083007812
+        },
+        "img": "img/8/Courtyard.png"
+    },
+    {
+        "base": "Courtyard Map",
+        "name": "The Vinktar Square",
+        "tier": 8,
+        "guild_character": "4",
+        "unique": true,
+        "upgrade": "Arena Map",
+        "connected_to": [
+            {
+                "Name": "Temple Map"
+            },
+            {
+                "Name": "Arena Map"
+            }
+        ],
+        "flavour_text": "To the east, \r\nit cannot be seen.\r\nTo the west, \r\nit cannot be touched.\r\nTo the south, \r\nit cannot be remembered.\r\nAnd to the north, \r\nit cannot be contained.",
+        "boss": [
+            {
+                "Name": "Avatar of Thunder"
+            }
+        ],
+        "coordinates": {
+            "y": 76.72000122070312,
+            "x": 640.969970703125
+        },
+        "img": "img/unique/The_Vinktar_Square.png"
+    },
+    {
+        "base": "Mud Geyser Map",
+        "name": "Mud Geyser",
+        "tier": 8,
+        "guild_character": "\u00c9",
+        "unique": false,
+        "upgrade": "Waste Pool Map",
+        "connected_to": [
+            {
+                "Name": "Waste Pool Map"
+            }
+        ],
+        "flavour_text": "Filth springs forth like blood from a severed jugular.",
+        "boss": [
+            {
+                "Name": "Tunneltrap"
+            }
+        ],
+        "coordinates": {
+            "y": 389.49700927734375,
+            "x": 325.6889953613281
+        },
+        "img": "img/8/Mud_Geyser.png"
+    },
+    {
+        "base": "Shore Map",
+        "name": "Shore",
+        "tier": 8,
+        "guild_character": "/",
+        "unique": false,
+        "upgrade": "Tower Map",
+        "connected_to": [
+            {
+                "Name": "Tower Map"
+            }
+        ],
+        "flavour_text": "Each life, each act, as fleeting as footprints in the sand.",
+        "boss": [
+            {
+                "Name": "Belcer, the Pirate Lord"
+            }
+        ],
+        "coordinates": {
+            "y": 482.64801025390625,
+            "x": 436.4599914550781
+        },
+        "img": "img/8/Shore.png"
+    },
+    {
+        "base": "Shore Map",
+        "name": "Mao Kun",
+        "tier": 8,
+        "guild_character": "/",
+        "unique": true,
+        "upgrade": "Tower Map",
+        "connected_to": [
+            {
+                "Name": "Tower Map"
+            }
+        ],
+        "flavour_text": "The Treasures of the Tides\r\nwait in agony\r\nat the End of the World.",
+        "boss": [
+            {
+                "Name": "Fairgraves, Never Dying"
+            }
+        ],
+        "coordinates": {
+            "y": 504.1000061035156,
+            "x": 422.7309875488281
+        },
+        "img": "img/unique/Mao_Kun.png"
+    },
+    {
+        "base": "Tropical Island Map",
+        "name": "Tropical Island",
+        "tier": 8,
+        "guild_character": "\u00db",
+        "unique": false,
+        "upgrade": "Estuary Map",
+        "connected_to": [
+            {
+                "Name": "Estuary Map"
+            }
+        ],
+        "flavour_text": "The temptations of paradise\r\ndraw forth the good\r\nand the bad alike.",
+        "boss": [
+            {
+                "Name": "Blood Progenitor"
+            }
+        ],
+        "coordinates": {
+            "y": 489.614990234375,
+            "x": 523.3099975585938
+        },
+        "img": "img/8/Tropical_Island.png"
+    },
+    {
+        "base": "Mineral Pools Map",
+        "name": "Mineral Pools",
+        "tier": 8,
+        "guild_character": "{",
+        "unique": false,
+        "upgrade": "Moon Temple Map",
+        "connected_to": [
+            {
+                "Name": "Moon Temple Map"
+            }
+        ],
+        "flavour_text": "God's jar of raw materials.\r\nLife lying dormant,\r\nwaiting to sprout.",
+        "boss": [
+            {
+                "Name": "Merveil, the Reflection"
+            },
+            {
+                "Name": "Merveil, the Returned"
+            }
+        ],
+        "coordinates": {
+            "y": 90.32499694824219,
+            "x": 403.9530029296875
+        },
+        "img": "img/8/Mineral_Pools.png"
+    },
+    {
+        "base": "Moon Temple Map",
+        "name": "Moon Temple",
+        "tier": 9,
+        "guild_character": "=",
+        "unique": false,
+        "upgrade": "Belfry Map",
+        "connected_to": [
+            {
+                "Name": "Belfry Map"
+            }
+        ],
+        "flavour_text": "Night's promises are dark, for even the stars must be harvested.",
+        "boss": [
+            {
+                "Name": "Sebbert, Crescent's Point"
+            }
+        ],
+        "coordinates": {
+            "y": 97.3479995727539,
+            "x": 461.5350036621094
+        },
+        "img": "img/9/Moon_Temple.png"
+    },
+    {
+        "base": "Moon Temple Map",
+        "name": "The Twilight Temple",
+        "tier": 9,
+        "guild_character": "=",
+        "unique": true,
+        "upgrade": "Belfry Map",
+        "connected_to": [
+            {
+                "Name": "Belfry Map"
+            }
+        ],
+        "flavour_text": "In the shadow of war,\r\nall are eclipsed.",
+        "boss": [
+            {
+                "Name": "Helial, the Day Unending"
+            },
+            {
+                "Name": "Selenia, the Endless Night"
+            }
+        ],
+        "coordinates": {
+            "y": 74.79000091552734,
+            "x": 442.0050048828125
+        },
+        "img": "img/unique/The_Twilight_Temple.png"
+    },
+    {
+        "base": "Sepulchre Map",
+        "name": "Sepulchre",
+        "tier": 9,
+        "guild_character": "\u0178",
+        "unique": false,
+        "upgrade": "Belfry Map",
+        "connected_to": [
+            {
+                "Name": "Belfry Map"
+            },
+            {
+                "Name": "Orchard Map"
+            }
+        ],
+        "flavour_text": "Lives come and go. Only bones and dust remain.",
+        "boss": [
+            {
+                "Name": "Doedre the Defiler"
+            },
+            {
+                "Name": "Doedre the Defiler"
+            }
+        ],
+        "coordinates": {
+            "y": 177.99200439453125,
+            "x": 341.7560119628906
+        },
+        "img": "img/9/Sepulchre.png"
+    },
+    {
+        "base": "Tower Map",
+        "name": "Tower",
+        "tier": 9,
+        "guild_character": "0",
+        "unique": false,
+        "upgrade": "Precinct Map",
+        "connected_to": [
+            {
+                "Name": "Precinct Map"
+            },
+            {
+                "Name": "Shipyard Map"
+            }
+        ],
+        "flavour_text": "We ascend to great heights to commit low acts.",
+        "boss": [
+            {
+                "Name": "Liantra"
+            },
+            {
+                "Name": "Bazur"
+            }
+        ],
+        "coordinates": {
+            "y": 447.5920104980469,
+            "x": 443.7980041503906
+        },
+        "img": "img/9/Tower.png"
+    },
+    {
+        "base": "Waste Pool Map",
+        "name": "Waste Pool",
+        "tier": 9,
+        "guild_character": "_",
+        "unique": false,
+        "upgrade": "Bog Map",
+        "connected_to": [
+            {
+                "Name": "Orchard Map"
+            },
+            {
+                "Name": "Bog Map"
+            }
+        ],
+        "flavour_text": "Verdant life blossoms\r\namidst death.",
+        "boss": [
+            {
+                "Name": "Portentia, the Foul"
+            }
+        ],
+        "coordinates": {
+            "y": 319.3909912109375,
+            "x": 302.8429870605469
+        },
+        "img": "img/9/Waste_Pool.png"
+    },
+    {
+        "base": "Plateau Map",
+        "name": "Plateau",
+        "tier": 9,
+        "guild_character": "|",
+        "unique": false,
+        "upgrade": "Wasteland Map",
+        "connected_to": [
+            {
+                "Name": "Wasteland Map"
+            }
+        ],
+        "flavour_text": "Steep cliffs divide where the trees may grow, and where they may not.",
+        "boss": [
+            {
+                "Name": "Puruna, the Challenger"
+            },
+            {
+                "Name": "Poporo, the Highest Spire"
+            }
+        ],
+        "coordinates": {
+            "y": 199.875,
+            "x": 695.1669921875
+        },
+        "img": "img/9/Plateau.png"
+    },
+    {
+        "base": "Estuary Map",
+        "name": "Estuary",
+        "tier": 9,
+        "guild_character": "s",
+        "unique": false,
+        "upgrade": "Arachnid Tomb Map",
+        "connected_to": [
+            {
+                "Name": "Arachnid Tomb Map"
+            },
+            {
+                "Name": "Shipyard Map"
+            }
+        ],
+        "flavour_text": "Where land springs from water, life will shortly follow.",
+        "boss": [
+            {
+                "Name": "Sumter the Twisted"
+            }
+        ],
+        "coordinates": {
+            "y": 455.72900390625,
+            "x": 553.7670288085938
+        },
+        "img": "img/9/Estuary.png"
+    },
+    {
+        "base": "Vault Map",
+        "name": "Vault",
+        "tier": 9,
+        "guild_character": ")",
+        "unique": false,
+        "upgrade": "Orchard Map",
+        "connected_to": [
+            {
+                "Name": "Orchard Map"
+            }
+        ],
+        "flavour_text": "Wealth beyond imagining, locked beyond reach.",
+        "boss": [
+            {
+                "Name": "Guardian of the Vault"
+            }
+        ],
+        "coordinates": {
+            "y": 193.1320037841797,
+            "x": 305.593994140625
+        },
+        "img": "img/9/Vault.png"
+    },
+    {
+        "base": "Temple Map",
+        "name": "Temple",
+        "tier": 9,
+        "guild_character": "-",
+        "unique": false,
+        "upgrade": "Cursed Crypt Map",
+        "connected_to": [
+            {
+                "Name": "Cursed Crypt Map"
+            }
+        ],
+        "flavour_text": "Immaculate white stone rises from the abyss. Perfection.",
+        "boss": [
+            {
+                "Name": "Jorus, Sky's Edge"
+            }
+        ],
+        "coordinates": {
+            "y": 93.33599853515625,
+            "x": 535.7520141601562
+        },
+        "img": "img/9/Temple.png"
+    },
+    {
+        "base": "Temple Map",
+        "name": "Poorjoy's Asylum",
+        "tier": 9,
+        "guild_character": "-",
+        "unique": true,
+        "upgrade": "Cursed Crypt Map",
+        "connected_to": [
+            {
+                "Name": "Cursed Crypt Map"
+            }
+        ],
+        "flavour_text": "Laughs of all the twisted\r\nEcho through these\r\nhalls of gold.\r\nIn this cold forgotten void\r\nThey wander, forever uncontrolled.",
+        "boss": [
+            {
+                "Name": "Mistress Hyseria"
+            }
+        ],
+        "coordinates": {
+            "y": 75.51499938964844,
+            "x": 564.6220092773438
+        },
+        "img": "img/unique/Poorjoys_Asylum.png"
+    },
+    {
+        "base": "Arena Map",
+        "name": "Arena",
+        "tier": 9,
+        "guild_character": "t",
+        "unique": false,
+        "upgrade": "Pier Map",
+        "connected_to": [
+            {
+                "Name": "Pier Map"
+            },
+            {
+                "Name": "Wasteland Map"
+            }
+        ],
+        "flavour_text": "The sound of a thousand calls for blood echo for eternity.",
+        "boss": [
+            {
+                "Name": "Avatar of the Huntress"
+            },
+            {
+                "Name": "Avatar of the Skies"
+            },
+            {
+                "Name": "Avatar of the Forge"
+            }
+        ],
+        "coordinates": {
+            "y": 144.0540008544922,
+            "x": 683.6539916992188
+        },
+        "img": "img/9/Arena.png"
+    },
+    {
+        "base": "Museum Map",
+        "name": "Museum",
+        "tier": 9,
+        "guild_character": "(",
+        "unique": false,
+        "upgrade": "Siege Map",
+        "connected_to": [
+            {
+                "Name": "Siege Map"
+            }
+        ],
+        "flavour_text": "Ancient artifacts and beautiful baubles. All paid for in blood.",
+        "boss": [
+            {
+                "Name": "He of Many Pieces"
+            }
+        ],
+        "coordinates": {
+            "y": 402.4849853515625,
+            "x": 675.0059814453125
+        },
+        "img": "img/9/Museum.png"
+    },
+    {
+        "base": "Museum Map",
+        "name": "The Putrid Cloister",
+        "tier": 9,
+        "guild_character": "(",
+        "unique": true,
+        "upgrade": "Siege Map",
+        "connected_to": [
+            {
+                "Name": "Siege Map"
+            }
+        ],
+        "flavour_text": "Please take out your blades,\r\nyour whips, and your spikes.\r\nClass is now in session.",
+        "boss": [
+            {
+                "Name": "Headmistress Braeta"
+            }
+        ],
+        "coordinates": {
+            "y": 422.3590087890625,
+            "x": 697.968994140625
+        },
+        "img": "img/unique/The_Putrid_Cloister.png"
+    },
+    {
+        "base": "Scriptorium Map",
+        "name": "Scriptorium",
+        "tier": 9,
+        "guild_character": "\u2021",
+        "unique": false,
+        "upgrade": "Siege Map",
+        "connected_to": [
+            {
+                "Name": "Siege Map"
+            }
+        ],
+        "flavour_text": "Knowledge balanced atop a vast pit. Hold on, or perish in the darkness of ignorance.",
+        "boss": [
+            {
+                "Name": "Gisale, Thought Thief"
+            }
+        ],
+        "coordinates": {
+            "y": 312.2149963378906,
+            "x": 686.3060302734375
+        },
+        "img": "img/9/Scriptorium.png"
+    },
+    {
+        "base": "Siege Map",
+        "name": "Siege",
+        "tier": 10,
+        "guild_character": "u",
+        "unique": false,
+        "upgrade": "Colonnade Map",
+        "connected_to": [
+            {
+                "Name": "Colonnade Map"
+            }
+        ],
+        "flavour_text": "No rest, no peace, no negotiation. Only War.",
+        "boss": [
+            {
+                "Name": "Tahsin, Warmaker"
+            }
+        ],
+        "coordinates": {
+            "y": 373.1440124511719,
+            "x": 663.4249877929688
+        },
+        "img": "img/10/Siege.png"
+    },
+    {
+        "base": "Shipyard Map",
+        "name": "Shipyard",
+        "tier": 10,
+        "guild_character": "v",
+        "unique": false,
+        "upgrade": "Coves Map",
+        "connected_to": [
+            {
+                "Name": "Coves Map"
+            }
+        ],
+        "flavour_text": "The stone and lumber sleeps. The captains are long dead. Only the sea knows their end.",
+        "boss": [
+            {
+                "Name": "Musky \"Two-Eyes\" Grenn"
+            },
+            {
+                "Name": "Susara, Siren of Pondium"
+            },
+            {
+                "Name": "Lussi \"Rotmother\" Roth"
+            }
+        ],
+        "coordinates": {
+            "y": 456.864013671875,
+            "x": 484.0929870605469
+        },
+        "img": "img/10/Shipyard.png"
+    },
+    {
+        "base": "Belfry Map",
+        "name": "Belfry",
+        "tier": 10,
+        "guild_character": "w",
+        "unique": false,
+        "upgrade": "Waterways Map",
+        "connected_to": [
+            {
+                "Name": "Waterways Map"
+            }
+        ],
+        "flavour_text": "Bells are rung in celebration, and in sorrow. And, finally, in despair.",
+        "boss": [
+            {
+                "Name": "Lord of the Grey"
+            }
+        ],
+        "coordinates": {
+            "y": 122.75299835205078,
+            "x": 391.7430114746094
+        },
+        "img": "img/10/Belfry.png"
+    },
+    {
+        "base": "Arachnid Tomb Map",
+        "name": "Arachnid Tomb",
+        "tier": 10,
+        "guild_character": "!",
+        "unique": false,
+        "upgrade": "Spider Forest Map",
+        "connected_to": [
+            {
+                "Name": "Spider Forest Map"
+            }
+        ],
+        "flavour_text": "They feel your every move,\r\nyour every breath,\r\nwith a million little wires.",
+        "boss": [
+            {
+                "Name": "Hybrid Widow"
+            }
+        ],
+        "coordinates": {
+            "y": 436.9909973144531,
+            "x": 585.8079833984375
+        },
+        "img": "img/10/Arachnid_Tomb.png"
+    },
+    {
+        "base": "Wasteland Map",
+        "name": "Wasteland",
+        "tier": 10,
+        "guild_character": "x",
+        "unique": false,
+        "upgrade": "Factory Map",
+        "connected_to": [
+            {
+                "Name": "Pit Map"
+            },
+            {
+                "Name": "Factory Map"
+            }
+        ],
+        "flavour_text": "A white bone stripped of its fertile flesh. Life spirals towards its end.",
+        "boss": [
+            {
+                "Name": "The Brittle Emperor"
+            }
+        ],
+        "coordinates": {
+            "y": 184.73500061035156,
+            "x": 663.4249877929688
+        },
+        "img": "img/10/Wasteland.png"
+    },
+    {
+        "base": "Precinct Map",
+        "name": "Precinct",
+        "tier": 10,
+        "guild_character": ":",
+        "unique": false,
+        "upgrade": "Promenade Map",
+        "connected_to": [
+            {
+                "Name": "Promenade Map"
+            }
+        ],
+        "flavour_text": "Crushed together and fenced in, to live out their lives like cattle.",
+        "boss": [
+            {
+                "Name": "Orra Greengate"
+            },
+            {
+                "Name": "Torr Olgosso"
+            },
+            {
+                "Name": "Damoi Tui"
+            },
+            {
+                "Name": "Eoin Greyfur"
+            },
+            {
+                "Name": "Wilorin Demontamer"
+            },
+            {
+                "Name": "Augustina Solaria"
+            },
+            {
+                "Name": "Igna Phoenix"
+            }
+        ],
+        "coordinates": {
+            "y": 422.3970031738281,
+            "x": 382.76800537109375
+        },
+        "img": "img/10/Precinct.png"
+    },
+    {
+        "base": "Bog Map",
+        "name": "Bog",
+        "tier": 10,
+        "guild_character": "y",
+        "unique": false,
+        "upgrade": "Lair Map",
+        "connected_to": [
+            {
+                "Name": "Primordial Pool Map"
+            },
+            {
+                "Name": "Lair Map"
+            }
+        ],
+        "flavour_text": "Layer upon layer of death and rot. Disgusting.",
+        "boss": [
+            {
+                "Name": "Skullbeak"
+            }
+        ],
+        "coordinates": {
+            "y": 311.8890075683594,
+            "x": 323.7340087890625
+        },
+        "img": "img/10/Bog.png"
+    },
+    {
+        "base": "Pier Map",
+        "name": "Pier",
+        "tier": 10,
+        "guild_character": "z",
+        "unique": false,
+        "upgrade": "Pit Map",
+        "connected_to": [
+            {
+                "Name": "Pit Map"
+            }
+        ],
+        "flavour_text": "Man's reach extends into\r\nthe ocean, clawing at\r\nits infinite depths.",
+        "boss": [
+            {
+                "Name": "Ancient Architect"
+            }
+        ],
+        "coordinates": {
+            "y": 139.70599365234375,
+            "x": 621.094970703125
+        },
+        "img": "img/10/Pier.png"
+    },
+    {
+        "base": "Cursed Crypt Map",
+        "name": "Cursed Crypt",
+        "tier": 10,
+        "guild_character": "}",
+        "unique": false,
+        "upgrade": "Mesa Map",
+        "connected_to": [
+            {
+                "Name": "Mesa Map"
+            }
+        ],
+        "flavour_text": "Saints and heathens look the same once the rot takes hold.",
+        "boss": [
+            {
+                "Name": "Pagan Bishop of Agony"
+            }
+        ],
+        "coordinates": {
+            "y": 107.36699676513672,
+            "x": 574.3350219726562
+        },
+        "img": "img/10/Cursed_Crypt.png"
+    },
+    {
+        "base": "Cursed Crypt Map",
+        "name": "The Coward's Trial",
+        "tier": 10,
+        "guild_character": "}",
+        "unique": true,
+        "upgrade": "Mesa Map",
+        "connected_to": [
+            {
+                "Name": "Mesa Map"
+            }
+        ],
+        "flavour_text": "For his sins\r\nhe was hunted in his sleep,\r\njudgement wrought\r\nof twisted nightmare.\r\nThe Coward bound\r\nhis dreams to stone,\r\nawaiting another to walk\r\nthe path of true atonement.",
+        "boss": [
+            {
+                "Name": "Infector of Dreams"
+            }
+        ],
+        "coordinates": {
+            "y": 121.04499816894531,
+            "x": 604.426025390625
+        },
+        "img": "img/unique/The_Cowards_Trial.png"
+    },
+    {
+        "base": "Orchard Map",
+        "name": "Orchard",
+        "tier": 10,
+        "guild_character": "<",
+        "unique": false,
+        "upgrade": "Waterways Map",
+        "connected_to": [
+            {
+                "Name": "Waterways Map"
+            }
+        ],
+        "flavour_text": "The fruit that grows from bloody ground tastes sweetest.",
+        "boss": [
+            {
+                "Name": "Vision of Justice"
+            }
+        ],
+        "coordinates": {
+            "y": 225.8209991455078,
+            "x": 326.447998046875
+        },
+        "img": "img/10/Orchard.png"
+    },
+    {
+        "base": "Promenade Map",
+        "name": "Promenade",
+        "tier": 11,
+        "guild_character": ";",
+        "unique": false,
+        "upgrade": "Racecourse Map",
+        "connected_to": [
+            {
+                "Name": "Racecourse Map"
+            }
+        ],
+        "flavour_text": "Even the greatest achievements\r\nwill eventually be abandoned.",
+        "boss": [
+            {
+                "Name": "Blackguard Avenger"
+            },
+            {
+                "Name": "Blackguard Tempest"
+            }
+        ],
+        "coordinates": {
+            "y": 392.19500732421875,
+            "x": 422.63299560546875
+        },
+        "img": "img/11/Promenade.png"
+    },
+    {
+        "base": "Promenade Map",
+        "name": "The Hall of Grandmasters",
+        "tier": 11,
+        "guild_character": ";",
+        "unique": true,
+        "upgrade": "Racecourse Map",
+        "connected_to": [
+            {
+                "Name": "Racecourse Map"
+            }
+        ],
+        "flavour_text": "The grandest and greatest\r\never to fight,\r\nDivine the champions stand tall.\r\nBut match their power,\r\nbest their might,\r\nAnd even the immortal may fall.",
+        "boss": [],
+        "coordinates": {
+            "y": 412.1960144042969,
+            "x": 458.5740051269531
+        },
+        "img": "img/unique/The_Hall_of_Grandmasters.png"
+    },
+    {
+        "base": "Lair Map",
+        "name": "Lair",
+        "tier": 11,
+        "guild_character": ",",
+        "unique": false,
+        "upgrade": "Necropolis Map",
+        "connected_to": [
+            {
+                "Name": "Racecourse Map"
+            },
+            {
+                "Name": "Necropolis Map"
+            }
+        ],
+        "flavour_text": "In darkness, the alpha rises. The companionship of beasts is fragile indeed.",
+        "boss": [
+            {
+                "Name": "Lycius, Midnight's Howl"
+            }
+        ],
+        "coordinates": {
+            "y": 325.5429992675781,
+            "x": 368.35198974609375
+        },
+        "img": "img/11/Lair.png"
+    },
+    {
+        "base": "Colonnade Map",
+        "name": "Colonnade",
+        "tier": 11,
+        "guild_character": ".",
+        "unique": false,
+        "upgrade": "Defiled Cathedral Map",
+        "connected_to": [
+            {
+                "Name": "Defiled Cathedral Map"
+            }
+        ],
+        "flavour_text": "Small minds demand\r\nthe largest structures.",
+        "boss": [
+            {
+                "Name": "Tyrant"
+            }
+        ],
+        "coordinates": {
+            "y": 326.197998046875,
+            "x": 629.8980102539062
+        },
+        "img": "img/11/Colonnade.png"
+    },
+    {
+        "base": "Primordial Pool Map",
+        "name": "Primordial Pool",
+        "tier": 11,
+        "guild_character": "\u00c2",
+        "unique": false,
+        "upgrade": "Summit Map",
+        "connected_to": [
+            {
+                "Name": "Summit Map"
+            }
+        ],
+        "flavour_text": "A dough of bad blood.\r\nA yeast of ill will.",
+        "boss": [
+            {
+                "Name": "Nightmare's Omen"
+            }
+        ],
+        "coordinates": {
+            "y": 251.71099853515625,
+            "x": 359.5920104980469
+        },
+        "img": "img/11/Primordial_Pool.png"
+    },
+    {
+        "base": "Spider Forest Map",
+        "name": "Spider Forest",
+        "tier": 11,
+        "guild_character": "\u00c3",
+        "unique": false,
+        "upgrade": "Castle Ruins Map",
+        "connected_to": [
+            {
+                "Name": "Castle Ruins Map"
+            }
+        ],
+        "flavour_text": "Each branch, each leaf,\r\nan extension of a web\r\nthat spans sanity.",
+        "boss": [
+            {
+                "Name": "Enticer of Rot"
+            }
+        ],
+        "coordinates": {
+            "y": 400.45098876953125,
+            "x": 558.85400390625
+        },
+        "img": "img/11/Spider_Forest.png"
+    },
+    {
+        "base": "Coves Map",
+        "name": "Coves",
+        "tier": 11,
+        "guild_character": "\u00ca",
+        "unique": false,
+        "upgrade": "Castle Ruins Map",
+        "connected_to": [
+            {
+                "Name": "Castle Ruins Map"
+            }
+        ],
+        "flavour_text": "The dark seas swallow the careless and spit them against sharp rocks.",
+        "boss": [
+            {
+                "Name": "Telvar, the Inebriated"
+            },
+            {
+                "Name": "Pirate Treasure"
+            }
+        ],
+        "coordinates": {
+            "y": 416.37298583984375,
+            "x": 489.4129943847656
+        },
+        "img": "img/11/Coves.png"
+    },
+    {
+        "base": "Waterways Map",
+        "name": "Waterways",
+        "tier": 11,
+        "guild_character": "\u00cc",
+        "unique": false,
+        "upgrade": "Torture Chamber Map",
+        "connected_to": [
+            {
+                "Name": "Torture Chamber Map"
+            }
+        ],
+        "flavour_text": "A river in the sky, far from that which so desperately needs it.",
+        "boss": [
+            {
+                "Name": "Fragment of Winter"
+            }
+        ],
+        "coordinates": {
+            "y": 181.96600341796875,
+            "x": 396.3789978027344
+        },
+        "img": "img/11/Waterways.png"
+    },
+    {
+        "base": "Factory Map",
+        "name": "Factory",
+        "tier": 11,
+        "guild_character": "\u00ce",
+        "unique": false,
+        "upgrade": "Crystal Ore Map",
+        "connected_to": [
+            {
+                "Name": "Villa Map"
+            },
+            {
+                "Name": "Crystal Ore Map"
+            }
+        ],
+        "flavour_text": "Repetition. Convention. Duplication. Creation distilled to perfection.",
+        "boss": [
+            {
+                "Name": "Pesquin, the Mad Baron"
+            }
+        ],
+        "coordinates": {
+            "y": 246.7169952392578,
+            "x": 642.6129760742188
+        },
+        "img": "img/11/Factory.png"
+    },
+    {
+        "base": "Mesa Map",
+        "name": "Mesa",
+        "tier": 11,
+        "guild_character": "\u00d2",
+        "unique": false,
+        "upgrade": "Overgrown Shrine Map",
+        "connected_to": [
+            {
+                "Name": "Overgrown Shrine Map"
+            }
+        ],
+        "flavour_text": "Barren and sun-bleached.\r\nEmptiness as far as\r\nthe eye can reach.",
+        "boss": [
+            {
+                "Name": "Oak the Mighty"
+            }
+        ],
+        "coordinates": {
+            "y": 135.1060028076172,
+            "x": 525.0050048828125
+        },
+        "img": "img/11/Mesa.png"
+    },
+    {
+        "base": "Pit Map",
+        "name": "Pit",
+        "tier": 11,
+        "guild_character": "\u00d7",
+        "unique": false,
+        "upgrade": "Villa Map",
+        "connected_to": [
+            {
+                "Name": "Villa Map"
+            },
+            {
+                "Name": "Overgrown Shrine Map"
+            }
+        ],
+        "flavour_text": "Blood turns the soil to mud.",
+        "boss": [
+            {
+                "Name": "Olof, Son of the Headsman"
+            }
+        ],
+        "coordinates": {
+            "y": 194.78900146484375,
+            "x": 613.9760131835938
+        },
+        "img": "img/11/Pit.png"
+    },
+    {
+        "base": "Defiled Cathedral Map",
+        "name": "Defiled Cathedral",
+        "tier": 12,
+        "guild_character": "\u00fa",
+        "unique": false,
+        "upgrade": "Shrine Map",
+        "connected_to": [
+            {
+                "Name": "Shrine Map"
+            }
+        ],
+        "flavour_text": "Crafted with reverence. Defiled with ease.",
+        "boss": [
+            {
+                "Name": "Woad, Mockery of Man"
+            }
+        ],
+        "coordinates": {
+            "y": 308.0459899902344,
+            "x": 594.8300170898438
+        },
+        "img": "img/12/Defiled_Cathedral.png"
+    },
+    {
+        "base": "Summit Map",
+        "name": "Summit",
+        "tier": 12,
+        "guild_character": "\u00f9",
+        "unique": false,
+        "upgrade": "Core Map",
+        "connected_to": [
+            {
+                "Name": "Core Map"
+            }
+        ],
+        "flavour_text": "We are swept ever upwards by our ambition, with no thought of what awaits us at the peak.",
+        "boss": [
+            {
+                "Name": "Mephod, the Earth Scorcher"
+            },
+            {
+                "Name": "Mephod, the Earth Scorcher"
+            }
+        ],
+        "coordinates": {
+            "y": 256.5480041503906,
+            "x": 394.07598876953125
+        },
+        "img": "img/12/Summit.png"
+    },
+    {
+        "base": "Overgrown Shrine Map",
+        "name": "Overgrown Shrine",
+        "tier": 12,
+        "guild_character": "\u00be",
+        "unique": false,
+        "upgrade": "Desert Spring Map",
+        "connected_to": [
+            {
+                "Name": "Desert Spring Map"
+            }
+        ],
+        "flavour_text": "A once great monument, now a forgotten memorial.",
+        "boss": [
+            {
+                "Name": "Maligaro the Mutilator"
+            }
+        ],
+        "coordinates": {
+            "y": 152.94200134277344,
+            "x": 559.333984375
+        },
+        "img": "img/12/Overgrown_Shrine.png"
+    },
+    {
+        "base": "Overgrown Shrine Map",
+        "name": "Acton's Nightmare",
+        "tier": 12,
+        "guild_character": "\u00be",
+        "unique": true,
+        "upgrade": "Desert Spring Map",
+        "connected_to": [
+            {
+                "Name": "Desert Spring Map"
+            }
+        ],
+        "flavour_text": "Curious, she shook it then,\r\nAnd tiny screams emerged.\r\nCuriouser, she shook again,\r\nAnd an eerie silence purred.",
+        "boss": [
+            {
+                "Name": "Rose"
+            },
+            {
+                "Name": "Thorn"
+            }
+        ],
+        "coordinates": {
+            "y": 177.08900451660156,
+            "x": 504.12799072265625
+        },
+        "img": "img/unique/Actons_Nightmare.png"
+    },
+    {
+        "base": "Castle Ruins Map",
+        "name": "Castle Ruins",
+        "tier": 12,
+        "guild_character": "\u00ea",
+        "unique": false,
+        "upgrade": "Ghetto Map",
+        "connected_to": [
+            {
+                "Name": "Ghetto Map"
+            }
+        ],
+        "flavour_text": "When the castle falls, it has failed its only purpose.",
+        "boss": [
+            {
+                "Name": "Leif, the Swift-Handed"
+            }
+        ],
+        "coordinates": {
+            "y": 410.47198486328125,
+            "x": 523.3259887695312
+        },
+        "img": "img/12/Castle_Ruins.png"
+    },
+    {
+        "base": "Crystal Ore Map",
+        "name": "Crystal Ore",
+        "tier": 12,
+        "guild_character": "\u00e5",
+        "unique": false,
+        "upgrade": "Caldera Map",
+        "connected_to": [
+            {
+                "Name": "Caldera Map"
+            }
+        ],
+        "flavour_text": "As the torch flickers, brilliance emerges in boundless variance.",
+        "boss": [
+            {
+                "Name": "Lord of the Hollows"
+            },
+            {
+                "Name": "Messenger of the Hollows"
+            },
+            {
+                "Name": "Champion of the Hollows"
+            }
+        ],
+        "coordinates": {
+            "y": 287.1709899902344,
+            "x": 636.8740234375
+        },
+        "img": "img/12/Crystal_Ore.png"
+    },
+    {
+        "base": "Villa Map",
+        "name": "Villa",
+        "tier": 12,
+        "guild_character": "\u00b3",
+        "unique": false,
+        "upgrade": "Park Map",
+        "connected_to": [
+            {
+                "Name": "Park Map"
+            }
+        ],
+        "flavour_text": "Wealth is powerless to stop the corroding force of time.",
+        "boss": [
+            {
+                "Name": "The High Templar"
+            }
+        ],
+        "coordinates": {
+            "y": 214.76699829101562,
+            "x": 629.2849731445312
+        },
+        "img": "img/12/Villa.png"
+    },
+    {
+        "base": "Torture Chamber Map",
+        "name": "Torture Chamber",
+        "tier": 12,
+        "guild_character": "\u00e2",
+        "unique": false,
+        "upgrade": "Malformation Map",
+        "connected_to": [
+            {
+                "Name": "Malformation Map"
+            }
+        ],
+        "flavour_text": "Who is the true criminal, the one behind bars, or the one who tortures him?",
+        "boss": [
+            {
+                "Name": "Shock and Horror"
+            }
+        ],
+        "coordinates": {
+            "y": 151.42599487304688,
+            "x": 427.8819885253906
+        },
+        "img": "img/12/Torture_Chamber.png"
+    },
+    {
+        "base": "Torture Chamber Map",
+        "name": "Oba's Cursed Trove",
+        "tier": 12,
+        "guild_character": "\u00e2",
+        "unique": true,
+        "upgrade": "Malformation Map",
+        "connected_to": [
+            {
+                "Name": "Malformation Map"
+            }
+        ],
+        "flavour_text": "\"Here the soil is more deadly than any swing of the axe.\"\r\n- Oba of the Karui,\r\nConqueror of Corruption.",
+        "boss": [
+            {
+                "Name": "Shock and Horror"
+            }
+        ],
+        "coordinates": {
+            "y": 141.12600708007812,
+            "x": 484.23199462890625
+        },
+        "img": "img/unique/Obas_Cursed_Trove.png"
+    },
+    {
+        "base": "Necropolis Map",
+        "name": "Necropolis",
+        "tier": 12,
+        "guild_character": "\u00b0",
+        "unique": false,
+        "upgrade": "Arsenal Map",
+        "connected_to": [
+            {
+                "Name": "Arsenal Map"
+            }
+        ],
+        "flavour_text": "Even in death, we long to be close to one another.",
+        "boss": [
+            {
+                "Name": "Burtok, Conjurer of Bones"
+            }
+        ],
+        "coordinates": {
+            "y": 298.4519958496094,
+            "x": 390.3290100097656
+        },
+        "img": "img/12/Necropolis.png"
+    },
+    {
+        "base": "Necropolis Map",
+        "name": "Death and Taxes",
+        "tier": 12,
+        "guild_character": "\u00b0",
+        "unique": true,
+        "upgrade": "Arsenal Map",
+        "connected_to": [
+            {
+                "Name": "Arsenal Map"
+            }
+        ],
+        "flavour_text": "So the raiders danced,\r\nleading their foe ever west,\r\ntowards certain death.",
+        "boss": [
+            {
+                "Name": "Avatar of Apocalypse"
+            }
+        ],
+        "coordinates": {
+            "y": 284.0010070800781,
+            "x": 365.739013671875
+        },
+        "img": "img/unique/Death_and_Taxes.png"
+    },
+    {
+        "base": "Racecourse Map",
+        "name": "Racecourse",
+        "tier": 12,
+        "guild_character": "\u00ab",
+        "unique": false,
+        "upgrade": "Terrace Map",
+        "connected_to": [
+            {
+                "Name": "Terrace Map"
+            }
+        ],
+        "flavour_text": "Rats chase their tails for the amusement of fools.",
+        "boss": [
+            {
+                "Name": "Shredder of Gladiators"
+            },
+            {
+                "Name": "Crusher of Gladiators"
+            },
+            {
+                "Name": "Bringer of Blood"
+            }
+        ],
+        "coordinates": {
+            "y": 362.6990051269531,
+            "x": 386.406005859375
+        },
+        "img": "img/12/Racecourse.png"
+    },
+    {
+        "base": "Caldera Map",
+        "name": "Caldera",
+        "tier": 13,
+        "guild_character": "\u00f8",
+        "unique": false,
+        "upgrade": "Palace Map",
+        "connected_to": [
+            {
+                "Name": "Palace Map"
+            }
+        ],
+        "flavour_text": "From the heart of fire, rivers of burning rage billow forth.",
+        "boss": [
+            {
+                "Name": "The Infernal King"
+            }
+        ],
+        "coordinates": {
+            "y": 284.4989929199219,
+            "x": 610.9180297851562
+        },
+        "img": "img/13/Caldera.png"
+    },
+    {
+        "base": "Ghetto Map",
+        "name": "Ghetto",
+        "tier": 13,
+        "guild_character": "\u0153",
+        "unique": false,
+        "upgrade": "Dig Map",
+        "connected_to": [
+            {
+                "Name": "Dig Map"
+            }
+        ],
+        "flavour_text": "Amongst the rabble,\r\nbrutality is the law.",
+        "boss": [
+            {
+                "Name": "Hephaeus, The Hammer"
+            }
+        ],
+        "coordinates": {
+            "y": 372.8450012207031,
+            "x": 520.1320190429688
+        },
+        "img": "img/13/Ghetto.png"
+    },
+    {
+        "base": "Park Map",
+        "name": "Park",
+        "tier": 13,
+        "guild_character": "\u00f7",
+        "unique": false,
+        "upgrade": "Palace Map",
+        "connected_to": [
+            {
+                "Name": "Palace Map"
+            }
+        ],
+        "flavour_text": "A brief respite in a sea of obligation and uncertainty.",
+        "boss": [
+            {
+                "Name": "Suncaller Asha"
+            }
+        ],
+        "coordinates": {
+            "y": 245.7729949951172,
+            "x": 616.1710205078125
+        },
+        "img": "img/13/Park.png"
+    },
+    {
+        "base": "Malformation Map",
+        "name": "Malformation",
+        "tier": 13,
+        "guild_character": "\u00f1",
+        "unique": false,
+        "upgrade": "Dark Forest Map",
+        "connected_to": [
+            {
+                "Name": "Dark Forest Map"
+            }
+        ],
+        "flavour_text": "Boils swell from the earth.\r\nFoul malignant flesh\r\nwithout purpose.",
+        "boss": [
+            {
+                "Name": "Nightmare Manifest"
+            }
+        ],
+        "coordinates": {
+            "y": 171.177001953125,
+            "x": 427.17401123046875
+        },
+        "img": "img/13/Malformation.png"
+    },
+    {
+        "base": "Terrace Map",
+        "name": "Terrace",
+        "tier": 13,
+        "guild_character": "\u00f0",
+        "unique": false,
+        "upgrade": "Colosseum Map",
+        "connected_to": [
+            {
+                "Name": "Colosseum Map"
+            }
+        ],
+        "flavour_text": "A garden on a stone pedestal. An incredible, and foolish, feat.",
+        "boss": [
+            {
+                "Name": "Varhesh, Shimmering Aberration"
+            }
+        ],
+        "coordinates": {
+            "y": 376.6400146484375,
+            "x": 442.4070129394531
+        },
+        "img": "img/13/Terrace.png"
+    },
+    {
+        "base": "Shrine Map",
+        "name": "Shrine",
+        "tier": 13,
+        "guild_character": "\u00e8",
+        "unique": false,
+        "upgrade": "Acid Lakes Map",
+        "connected_to": [
+            {
+                "Name": "Dig Map"
+            },
+            {
+                "Name": "Acid Lakes Map"
+            }
+        ],
+        "flavour_text": "Black tiles don't stain so easily.",
+        "boss": [
+            {
+                "Name": "Piety the Empyrean"
+            },
+            {
+                "Name": "Piety the Empyrean"
+            }
+        ],
+        "coordinates": {
+            "y": 349.5069885253906,
+            "x": 614.4329833984375
+        },
+        "img": "img/13/Shrine.png"
+    },
+    {
+        "base": "Arsenal Map",
+        "name": "Arsenal",
+        "tier": 13,
+        "guild_character": "\u00e9",
+        "unique": false,
+        "upgrade": "Colosseum Map",
+        "connected_to": [
+            {
+                "Name": "Colosseum Map"
+            }
+        ],
+        "flavour_text": "There is no war. There is no army. Only rage lingers.",
+        "boss": [
+            {
+                "Name": "The Steel Soul"
+            }
+        ],
+        "coordinates": {
+            "y": 344.3599853515625,
+            "x": 398.35198974609375
+        },
+        "img": "img/13/Arsenal.png"
+    },
+    {
+        "base": "Desert Spring Map",
+        "name": "Desert Spring",
+        "tier": 13,
+        "guild_character": "\u00e7",
+        "unique": false,
+        "upgrade": "Crimson Temple Map",
+        "connected_to": [
+            {
+                "Name": "Crimson Temple Map"
+            }
+        ],
+        "flavour_text": "As mirage becomes reality, hardship is briefly quenched.",
+        "boss": [
+            {
+                "Name": "Terror of the Infinite Drifts"
+            },
+            {
+                "Name": "Terror of the Infinite Drifts"
+            }
+        ],
+        "coordinates": {
+            "y": 189.85899353027344,
+            "x": 544.1010131835938
+        },
+        "img": "img/13/Desert_Spring.png"
+    },
+    {
+        "base": "Core Map",
+        "name": "Core",
+        "tier": 13,
+        "guild_character": "\u00fb",
+        "unique": false,
+        "upgrade": "Plaza Map",
+        "connected_to": [
+            {
+                "Name": "Plaza Map"
+            }
+        ],
+        "flavour_text": "Black monstrous bridges cross oily rivers, leading nowhere. Nothing as it should be.",
+        "boss": [
+            {
+                "Name": "Eater of Souls"
+            },
+            {
+                "Name": "Eater of Souls"
+            }
+        ],
+        "coordinates": {
+            "y": 224.2969970703125,
+            "x": 386.572998046875
+        },
+        "img": "img/13/Core.png"
+    },
+    {
+        "base": "Colosseum Map",
+        "name": "Colosseum",
+        "tier": 14,
+        "guild_character": "\u00fc",
+        "unique": false,
+        "upgrade": "Lava Lake Map",
+        "connected_to": [
+            {
+                "Name": "Lava Lake Map"
+            }
+        ],
+        "flavour_text": "Life means as little as a passing\r\nmoment of entertainment.\r\nLet them rot.",
+        "boss": [
+            {
+                "Name": "Ambrius, Legion Slayer"
+            }
+        ],
+        "coordinates": {
+            "y": 334.3819885253906,
+            "x": 427.1619873046875
+        },
+        "img": "img/14/Colosseum.png"
+    },
+    {
+        "base": "Acid Lakes Map",
+        "name": "Acid Lakes",
+        "tier": 14,
+        "guild_character": "\u00ff",
+        "unique": false,
+        "upgrade": "Carcass Map",
+        "connected_to": [
+            {
+                "Name": "Carcass Map"
+            }
+        ],
+        "flavour_text": "The water brings life,\r\nthe poison takes it away.",
+        "boss": [
+            {
+                "Name": "Rama, The Kinslayer"
+            },
+            {
+                "Name": "Kalria, The Fallen"
+            },
+            {
+                "Name": "Invari, The Bloodshaper"
+            },
+            {
+                "Name": "Lokan, The Deceiver"
+            },
+            {
+                "Name": "Lokan, The Deceiver"
+            },
+            {
+                "Name": "Marchak, The Betrayer"
+            },
+            {
+                "Name": "Berrots, The Breaker"
+            },
+            {
+                "Name": "Vessider, The Unrivaled"
+            },
+            {
+                "Name": "Morgrants, The Deafening"
+            }
+        ],
+        "coordinates": {
+            "y": 342.15899658203125,
+            "x": 578.9619750976562
+        },
+        "img": "img/14/Acid_Lakes.png"
+    },
+    {
+        "base": "Dark Forest Map",
+        "name": "Dark Forest",
+        "tier": 14,
+        "guild_character": "\u00ae",
+        "unique": false,
+        "upgrade": "Reef Map",
+        "connected_to": [
+            {
+                "Name": "Reef Map"
+            }
+        ],
+        "flavour_text": "The trees grow twisted and gnarled, without a hint of light. A curse lingers here.",
+        "boss": [
+            {
+                "Name": "The Cursed King"
+            }
+        ],
+        "coordinates": {
+            "y": 171.06199645996094,
+            "x": 461.61199951171875
+        },
+        "img": "img/14/Dark_Forest.png"
+    },
+    {
+        "base": "Crimson Temple Map",
+        "name": "Crimson Temple",
+        "tier": 14,
+        "guild_character": "\u00a9",
+        "unique": false,
+        "upgrade": "Basilica Map",
+        "connected_to": [
+            {
+                "Name": "Basilica Map"
+            }
+        ],
+        "flavour_text": "A sanguine supplication to death and depravity.",
+        "boss": [
+            {
+                "Name": "The Sanguine Siren"
+            }
+        ],
+        "coordinates": {
+            "y": 210.45899963378906,
+            "x": 592.7550048828125
+        },
+        "img": "img/14/Crimson_Temple.png"
+    },
+    {
+        "base": "Plaza Map",
+        "name": "Plaza",
+        "tier": 14,
+        "guild_character": "\u20ac",
+        "unique": false,
+        "upgrade": "Sunken City Map",
+        "connected_to": [
+            {
+                "Name": "Sunken City Map"
+            }
+        ],
+        "flavour_text": "Drought took the plants, famine took the people.",
+        "boss": [
+            {
+                "Name": "The Goddess"
+            }
+        ],
+        "coordinates": {
+            "y": 195.0290069580078,
+            "x": 417.0050048828125
+        },
+        "img": "img/14/Plaza.png"
+    },
+    {
+        "base": "Dig Map",
+        "name": "Dig",
+        "tier": 14,
+        "guild_character": "\u2020",
+        "unique": false,
+        "upgrade": "Carcass Map",
+        "connected_to": [
+            {
+                "Name": "Carcass Map"
+            }
+        ],
+        "flavour_text": "A hollow echo of bygone times in a land where none lived for long.",
+        "boss": [
+            {
+                "Name": "Stalker of the Endless Dunes"
+            }
+        ],
+        "coordinates": {
+            "y": 386.36700439453125,
+            "x": 584.0479736328125
+        },
+        "img": "img/14/Dig.png"
+    },
+    {
+        "base": "Palace Map",
+        "name": "Palace",
+        "tier": 14,
+        "guild_character": "\\",
+        "unique": false,
+        "upgrade": "Basilica Map",
+        "connected_to": [
+            {
+                "Name": "Basilica Map"
+            }
+        ],
+        "flavour_text": "Death forces even the most\r\ndetermined of despots to\r\npass the crown.",
+        "boss": [
+            {
+                "Name": "God's Chosen"
+            },
+            {
+                "Name": "The Hallowed Husk"
+            }
+        ],
+        "coordinates": {
+            "y": 259.3290100097656,
+            "x": 584.3839721679688
+        },
+        "img": "img/14/Palace.png"
+    },
+    {
+        "base": "Lava Lake Map",
+        "name": "Lava Lake",
+        "tier": 15,
+        "guild_character": "\u00b5",
+        "unique": false,
+        "upgrade": "Pit of the Chimera Map",
+        "connected_to": [
+            {
+                "Name": "Pit of the Chimera Map"
+            },
+            {
+                "Name": "Vaal Temple Map"
+            }
+        ],
+        "flavour_text": "At the heart of a peaceful, secluded valley, an island of burning, consuming fury.",
+        "boss": [
+            {
+                "Name": "Kitava, The Destroyer"
+            }
+        ],
+        "coordinates": {
+            "y": 300.68798828125,
+            "x": 427.6929931640625
+        },
+        "img": "img/15/Lava_Lake.png"
+    },
+    {
+        "base": "Basilica Map",
+        "name": "Basilica",
+        "tier": 15,
+        "guild_character": "\u00bb",
+        "unique": false,
+        "upgrade": "Forge of the Phoenix Map",
+        "connected_to": [
+            {
+                "Name": "Forge of the Phoenix Map"
+            },
+            {
+                "Name": "Vaal Temple Map"
+            }
+        ],
+        "flavour_text": "Built so the prayers would echo. A resonance no god could hear.",
+        "boss": [
+            {
+                "Name": "Konley, the Unrepentant"
+            }
+        ],
+        "coordinates": {
+            "y": 215.04800415039062,
+            "x": 563.5679931640625
+        },
+        "img": "img/15/Basilica.png"
+    },
+    {
+        "base": "Sunken City Map",
+        "name": "Sunken City",
+        "tier": 15,
+        "guild_character": "\u2022",
+        "unique": false,
+        "upgrade": "Lair of the Hydra Map",
+        "connected_to": [
+            {
+                "Name": "Lair of the Hydra Map"
+            },
+            {
+                "Name": "Vaal Temple Map"
+            }
+        ],
+        "flavour_text": "From the walls, water, and ferns... Death comes crawling on ancient steps.",
+        "boss": [
+            {
+                "Name": "Armala, the Widow"
+            }
+        ],
+        "coordinates": {
+            "y": 219.56700134277344,
+            "x": 423.0350036621094
+        },
+        "img": "img/15/Sunken_City.png"
+    },
+    {
+        "base": "Reef Map",
+        "name": "Reef",
+        "tier": 15,
+        "guild_character": "7",
+        "unique": false,
+        "upgrade": "Lair of the Hydra Map",
+        "connected_to": [
+            {
+                "Name": "Lair of the Hydra Map"
+            },
+            {
+                "Name": "Vaal Temple Map"
+            }
+        ],
+        "flavour_text": "Each plank of rotting wood, each dead sailor, feeds the island and makes it grow.",
+        "boss": [
+            {
+                "Name": "Nassar, Lion of the Seas"
+            }
+        ],
+        "coordinates": {
+            "y": 195.177001953125,
+            "x": 458.8169860839844
+        },
+        "img": "img/15/Reef.png"
+    },
+    {
+        "base": "Carcass Map",
+        "name": "Carcass",
+        "tier": 15,
+        "guild_character": "\u00a7",
+        "unique": false,
+        "upgrade": "Maze of the Minotaur Map",
+        "connected_to": [
+            {
+                "Name": "Maze of the Minotaur Map"
+            },
+            {
+                "Name": "Vaal Temple Map"
+            }
+        ],
+        "flavour_text": "Life's wet, reproductive stink abates, relenting to death's chaste ritual of decay.",
+        "boss": [
+            {
+                "Name": "Amalgam of Nightmares"
+            }
+        ],
+        "coordinates": {
+            "y": 360.9779968261719,
+            "x": 546.4110107421875
+        },
+        "img": "img/15/Carcass.png"
+    },
+    {
+        "base": "Pit of the Chimera Map",
+        "name": "Pit of the Chimera",
+        "tier": 16,
+        "guild_character": "\u00c2",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "One of my captors hid a beast within his heart. Now his true self can be seen by all.",
+        "boss": [
+            {
+                "Name": "Guardian of the Chimera"
+            }
+        ],
+        "coordinates": {
+            "y": 330.56298828125,
+            "x": 451.4119873046875
+        },
+        "img": "img/16/Pit_of_the_Chimera.png"
+    },
+    {
+        "base": "Lair of the Hydra Map",
+        "name": "Lair of the Hydra",
+        "tier": 16,
+        "guild_character": "\u00a2",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "One of my captors wore many faces, yet kept her true face hidden. Now she cannot escape her true face.",
+        "boss": [
+            {
+                "Name": "Guardian of the Hydra"
+            }
+        ],
+        "coordinates": {
+            "y": 229.26100158691406,
+            "x": 450.802001953125
+        },
+        "img": "img/16/Lair_of_the_Hydra.png"
+    },
+    {
+        "base": "Maze of the Minotaur Map",
+        "name": "Maze of the Minotaur",
+        "tier": 16,
+        "guild_character": "\u00a3",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "One of my captors felt no emotion. He did not hesitate to inflict pain. Now all he feels is intense, unstoppable agony.",
+        "boss": [
+            {
+                "Name": "Guardian of the Minotaur"
+            }
+        ],
+        "coordinates": {
+            "y": 331.0840148925781,
+            "x": 548.4420166015625
+        },
+        "img": "img/16/Maze_of_the_Minotaur.png"
+    },
+    {
+        "base": "Forge of the Phoenix Map",
+        "name": "Forge of the Phoenix",
+        "tier": 16,
+        "guild_character": "\u00a4",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "One of my captors refused redemption. He did not see value in a new life. Now new life surrounds him.",
+        "boss": [
+            {
+                "Name": "Guardian of the Phoenix"
+            }
+        ],
+        "coordinates": {
+            "y": 228.63699340820312,
+            "x": 549.198974609375
+        },
+        "img": "img/16/Forge_of_the_Phoenix.png"
+    },
+    {
+        "base": "Vaal Temple Map",
+        "name": "Vaal Temple",
+        "tier": 16,
+        "guild_character": ">",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "Voices. Visions. Violence. They will haunt these grounds for all of eternity.",
+        "boss": [
+            {
+                "Name": "K'aj Q'ura"
+            },
+            {
+                "Name": "K'aj Y'ara'az"
+            },
+            {
+                "Name": "K'aj A'alai"
+            }
+        ],
+        "coordinates": {
+            "y": 370.156005859375,
+            "x": 472.4750061035156
+        },
+        "img": "img/16/Vaal_Temple.png"
+    },
+    {
+        "base": "The Shaper's Realm",
+        "name": "The Shaper's Realm",
+        "tier": 17,
+        "guild_character": "\u00a5",
+        "unique": false,
+        "upgrade": null,
+        "connected_to": [],
+        "flavour_text": "The nexus of nothingness and equilibrium of eternity.",
+        "boss": [
+            {
+                "Name": "The Shaper"
+            }
+        ],
+        "coordinates": {
+            "y": 281.28900146484375,
+            "x": 499.8380126953125
+        },
+        "img": null
+    }
+]
